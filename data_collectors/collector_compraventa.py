@@ -17,12 +17,13 @@ data_json = json.loads(data_str)
 
 # Transform the JSON records into a Pandas DataFrame
 records_data_frame = pd.DataFrame(data_json['result']['records'])
-print(records_data_frame)
 
 # Transform the JSON metadata into a Pandas DataFrame
 metadata_data_frame = pd.DataFrame(data_json['result']['fields'])
-print(metadata_data_frame)
 
 # save csv files
 records_data_frame.to_csv('./temporal_landing/compraventa_api/records_compraventa.csv', index=False)
+print("Los datos de records de compraventa se han guardado correctamente.")
+
 metadata_data_frame.to_csv('./temporal_landing/compraventa_api/metadata_compraventa.csv', index=False)
+print("Los datos de metadata de compraventa se han guardado correctamente.")

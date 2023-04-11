@@ -9,7 +9,7 @@ directory = "temporal_landing/idealista"
 #idealista: mirar duplicats, afegir la data, fer que propertycode sigui el id.
 
 client = MongoClient()
-db = client['PLZ']
+db = client['persistent_landing']
 collection = db[directory]
 collection.delete_many({}) # per deletejar tots els docs de la collection
 # collection.drop() # per dropejar la collection
@@ -24,7 +24,7 @@ for f in os.listdir(directory):
         data = json.load(file)
         for doc in data:
             doc['date'] = date
-            collection.find({}
+            # collection.find({})
         # for doc in data: # canviar el district i el neighbourhood pels reconciled i afegir els IDs correspoents
         if len(data) > 0:
             collection.insert_many(data)
