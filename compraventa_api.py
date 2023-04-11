@@ -2,6 +2,7 @@ import urllib.request
 import json
 import pandas as pd
 
+# Download the data from the API
 url = 'https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=416c6da9-f546-48f4-858d-836c25fa2ed3&limit='
 limit_rows = 2000
 
@@ -23,5 +24,5 @@ metadata_data_frame = pd.DataFrame(data_json['result']['fields'])
 print(metadata_data_frame)
 
 # save csv files
-records_data_frame.to_csv('./data_api/records_data_frame.csv', index=False)
-metadata_data_frame.to_csv('./data_api/metadata_data_frame.csv', index=False)
+records_data_frame.to_csv('./compraventa_api/records_data_frame.csv', index=False)
+metadata_data_frame.to_csv('./compraventa_api/metadata_data_frame.csv', index=False)
