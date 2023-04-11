@@ -5,7 +5,20 @@ from pymongo import MongoClient
 
 def connect_mongo(mongo_connection_string: str, database_name: str) -> object:
     '''
-    Función para conectarse a MongoDB
+    Function to connect to MongoDB
+
+    Parameters
+    ----------
+    mongo_connection_string : str
+        Connection string to MongoDB
+    database_name : str
+        Name of the database to connect to
+
+    Returns
+    -------
+    object
+        MongoDB database object
+        
     '''
 
     client = MongoClient(mongo_connection_string)
@@ -13,9 +26,21 @@ def connect_mongo(mongo_connection_string: str, database_name: str) -> object:
 
     return db
 
-def insert_data_mongo(temporal_landing_path: str, collection_name: str, data_base_mongo: object, insert_type=['all']) -> None:
+def insert_data_to_mongo(temporal_landing_path: str, collection_name: str, data_base_mongo: object, insert_type=['all']) -> None:
     '''
-    Función para leer y cargar los archivos CSV en MongoDB
+    Function to read and load the CSV files into MongoDB
+
+    Parameters
+    ----------
+    temporal_landing_path : str
+        Path to the folder where the CSV files are stored
+    collection_name : str
+        Name of the collection where the data will be stored
+    data_base_mongo : object
+        MongoDB database object
+    insert_type : list, optional
+        List of files to insert. If 'all' is passed, all the files in the folder will be inserted, by default ['all']
+        
     '''
     
     folder_path = f'{temporal_landing_path}{collection_name}/'
@@ -42,7 +67,19 @@ def insert_data_mongo(temporal_landing_path: str, collection_name: str, data_bas
 
 def insert_idealista_data_mongo(temporal_landing_path: str, collection_name: str, data_base_mongo: object, insert_type=['all']) -> None:
     '''
-    Función para leer y cargar los archivos CSV en MongoDB
+    Function to read and load the idealista files into MongoDB
+
+    Parameters
+    ----------
+    temporal_landing_path : str
+        Path to the folder where the JSON files are stored
+    collection_name : str
+        Name of the collection where the data will be stored
+    data_base_mongo : object
+        MongoDB database object
+    insert_type : list, optional
+        List of files to insert. If 'all' is passed, all the files in the folder will be inserted, by default ['all']
+
     '''
     
     folder_path = f'{temporal_landing_path}{collection_name}/'
