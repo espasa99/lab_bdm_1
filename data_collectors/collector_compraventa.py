@@ -25,5 +25,5 @@ metadata_data_frame = pd.DataFrame(data_json['result']['fields'])
 records_data_frame.to_csv('./temporal_landing/compraventa_api/records_compraventa.csv', index=False)
 print("Los datos de records de compraventa se han guardado correctamente.")
 
-metadata_data_frame.to_csv('./temporal_landing/compraventa_api/metadata_compraventa.csv', index=False)
-print("Los datos de metadata de compraventa se han guardado correctamente.")
+# metadata_data_frame.to_csv('./temporal_landing/compraventa_api/metadata_compraventa.csv', index=False)
+# print("Los datos de metadata de compraventa se han guardado correctamente.")

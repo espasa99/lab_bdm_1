@@ -1,4 +1,4 @@
-from persistance_loader_funcs import connect_mongo, insert_data_mongo
+from persistance_loader_funcs import connect_mongo, insert_data_mongo, insert_idealista_data_mongo
 
 temporal_landing_path = "./temporal_landing/"
 
@@ -8,7 +8,7 @@ mongo_connection_string = "mongodb://localhost:27017/"
 data_base_mongo = connect_mongo(mongo_connection_string, database_name)
 
 # Income data
-collection_name = "opendatabcn-income/"
+collection_name = "opendatabcn-income"
 insert_type = ['all']
 insert_data_mongo(temporal_landing_path, collection_name, data_base_mongo, insert_type)
 
@@ -25,4 +25,4 @@ insert_data_mongo(temporal_landing_path, collection_name, data_base_mongo, inser
 # idealista data
 collection_name = "idealista"
 insert_type = ['all']
-insert_data_mongo(temporal_landing_path, collection_name, data_base_mongo, insert_type)
+insert_idealista_data_mongo(temporal_landing_path, collection_name, data_base_mongo, insert_type)
