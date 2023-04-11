@@ -24,5 +24,5 @@ metadata_data_frame = pd.DataFrame(data_json['result']['fields'])
 print(metadata_data_frame)
 
 # save csv files
-records_data_frame.to_csv('./compraventa_api/records_data_frame.csv', index=False)
-metadata_data_frame.to_csv('./compraventa_api/metadata_data_frame.csv', index=False)
+records_data_frame.to_csv('./temporal_landing/compraventa_api/records_compraventa.csv', index=False)
+metadata_data_frame.to_csv('./temporal_landing/compraventa_api/metadata_compraventa.csv', index=False)
