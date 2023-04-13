@@ -103,8 +103,7 @@ def insert_idealista_data_mongo(temporal_landing_path: str, collection_name: str
 
             for doc in data:       # (?) fa falta afegir la data a cada document?
                 doc['date'] = date
-                dup = collection.find_one({"propertyCode": doc["propertyCode"]})
-                if dup is None:
-                    collection.insert_one(doc)
+                
+                collection.insert_one(doc)
 
             print(f"Los datos de {file_name} se han cargado correctamente en MongoDB.")
