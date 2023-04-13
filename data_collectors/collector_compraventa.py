@@ -1,29 +1,30 @@
 import urllib.request
 import json
 import pandas as pd
+from collectors_funcs import register_upload
 
 # Download the data from the API
-url = 'https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=416c6da9-f546-48f4-858d-836c25fa2ed3&limit='
-limit_rows = 2000
+limit_rows = 10000
 
-with urllib.request.urlopen(url + str(limit_rows)) as url:
-    s = url.read()
+with open('./data_collectors/url_api_compraventa.json', 'r') as archivo_json:
+    url_for_year = json.load(archivo_json)
 
-# Decode the bytes object into a string
-data_str = s.decode('utf-8')
+for year in url_for_year:
 
-# Parse the string into a JSON object (dictionary)
-data_json = json.loads(data_str)
+    url = url_for_year[year]
+    with urllib.request.urlopen(url + str(limit_rows)) as url:
+        s = url.read()
 
-# Transform the JSON records into a Pandas DataFrame
-records_data_frame = pd.DataFrame(data_json['result']['records'])
+    data_str = s.decode('utf-8')
 
-# Transform the JSON metadata into a Pandas DataFrame
-metadata_data_frame = pd.DataFrame(data_json['result']['fields'])
+    data_json = json.loads(data_str)
 
-# save csv files
-records_data_frame.to_csv('./temporal_landing/compraventa_api/2022_records_compraventa.csv', index=False)
-print("Los datos de records de compraventa se han guardado correctamente.")
+    records_data_frame = pd.DataFrame(data_json['result']['records'])
 
-# metadata_data_frame.to_csv('./temporal_landing/compraventa_api/metadata_compraventa.csv', index=False)
-# print("Los datos de metadata de compraventa se han guardado correctamente.")
+    records_data_frame.to_csv('./temporal_landing/compraventa_api/' + year + '_records_compraventa.csv', index=False)
+
+    file_name = year + '_records_compraventa.csv'
+    date = file_name.split('_')[0]
+
+    register_upload(date, file_name, 'csv', 'collector_compraventa')
+    print(f"Los datos de {file_name} se han guardado correctamente.")

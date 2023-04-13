@@ -1,0 +1,8 @@
+{
+    "2022": "https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=416c6da9-f546-48f4-858d-836c25fa2ed3&limit=",
+    "2021": "https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=3942e879-c059-4691-b002-d7b85a91f92f&limit=",
+    "2020": "https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=0a919484-b023-4579-bdc9-f7b7df90d9b5&limit=",
+    "2019": "https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=c9defbfa-0b58-49db-85ed-cf13f165a5d5&limit=",
+    "2018": "https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=c03c20d7-7247-4da9-88d2-c66577638589&limit=",
+    "2017": "https://opendata-ajuntament.barcelona.cat/data/api/action/datastore_search?resource_id=54bacafe-e84e-4557-8c8a-b36c25025cb0&limit="
+}

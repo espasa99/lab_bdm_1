@@ -1,0 +1,1753 @@
+Codi_Districte,Preu_mitja_habitatge,Nom_Districte,Trimestre,Nom_Barri,Valor,Codi_Barri,_id,Any
+1,Total. Milers d'euros,Ciutat Vella,1,el Raval,167.5,1,1,2021
+1,Total. Milers d'euros,Ciutat Vella,1,el Barri Gòtic,298.7,2,2,2021
+1,Total. Milers d'euros,Ciutat Vella,1,la Barceloneta,184.7,3,3,2021
+1,Total. Milers d'euros,Ciutat Vella,1,"Sant Pere, Santa Caterina i la Ribera",254.6,4,4,2021
+2,Total. Milers d'euros,Eixample,1,el Fort Pienc,301.8,5,5,2021
+2,Total. Milers d'euros,Eixample,1,la Sagrada Família,306.5,6,6,2021
+2,Total. Milers d'euros,Eixample,1,la Dreta de l'Eixample,661.2,7,7,2021
+2,Total. Milers d'euros,Eixample,1,l'Antiga Esquerra de l'Eixample,429.5,8,8,2021
+2,Total. Milers d'euros,Eixample,1,la Nova Esquerra de l'Eixample,334.9,9,9,2021
+2,Total. Milers d'euros,Eixample,1,Sant Antoni,337.9,10,10,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,el Poble Sec,248.5,11,11,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,la Marina del Prat Vermell,274.9,12,12,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,la Marina de Port,213.9,13,13,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,la Font de la Guatlla,250.5,14,14,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,Hostafrancs,258.4,15,15,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,la Bordeta,209.4,16,16,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,Sants - Badal,239.8,17,17,2021
+3,Total. Milers d'euros,Sants-Montjuïc,1,Sants,276.8,18,18,2021
+4,Total. Milers d'euros,Les Corts,1,les Corts,425.5,19,19,2021
+4,Total. Milers d'euros,Les Corts,1,la Maternitat i Sant Ramon,343.2,20,20,2021
+4,Total. Milers d'euros,Les Corts,1,Pedralbes,984.0,21,21,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,1,"Vallvidrera, el Tibidabo i les Planes",393.9,22,22,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,1,Sarrià,576.7,23,23,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,1,les Tres Torres,1005.4,24,24,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,1,Sant Gervasi - la Bonanova,863.8,25,25,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,1,Sant Gervasi - Galvany,923.4,26,26,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Porta,--,45,775,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,1,el Putxet i el Farró,443.7,27,27,2021
+6,Total. Milers d'euros,Gràcia,1,Vallcarca i els Penitents,383.5,28,28,2021
+6,Total. Milers d'euros,Gràcia,1,el Coll,207.3,29,29,2021
+6,Total. Milers d'euros,Gràcia,1,la Salut,289.6,30,30,2021
+6,Total. Milers d'euros,Gràcia,1,la Vila de Gràcia,345.3,31,31,2021
+6,Total. Milers d'euros,Gràcia,1,el Camp d'en Grassot i Gràcia Nova,364.8,32,32,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,el Baix Guinardó,217.9,33,33,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,Can Baró,224.7,34,34,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,el Guinardó,207.3,35,35,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,la Font d'en Fargues,358.3,36,36,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,el Carmel,136.8,37,37,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,la Teixonera,170.1,38,38,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,Sant Genís dels Agudells,156.5,39,39,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,Montbau,170.7,40,40,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,la Vall d'Hebron,236.7,41,41,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,la Clota,--,42,42,2021
+7,Total. Milers d'euros,Horta-Guinardó,1,Horta,260.3,43,43,2021
+8,Total. Milers d'euros,Nou Barris,1,Vilapicina i la Torre Llobeta,227.3,44,44,2021
+8,Total. Milers d'euros,Nou Barris,1,Porta,142.9,45,45,2021
+8,Total. Milers d'euros,Nou Barris,1,el Turó de la Peira,141.6,46,46,2021
+8,Total. Milers d'euros,Nou Barris,1,Can Peguera,215.0,47,47,2021
+8,Total. Milers d'euros,Nou Barris,1,la Guineueta,195.5,48,48,2021
+8,Total. Milers d'euros,Nou Barris,1,Canyelles,209.5,49,49,2021
+8,Total. Milers d'euros,Nou Barris,1,les Roquetes,123.8,50,50,2021
+8,Total. Milers d'euros,Nou Barris,1,Verdun,156.3,51,51,2021
+8,Total. Milers d'euros,Nou Barris,1,la Prosperitat,145.1,52,52,2021
+8,Total. Milers d'euros,Nou Barris,1,la Trinitat Nova,105.1,53,53,2021
+8,Total. Milers d'euros,Nou Barris,1,Torre Baró,288.5,54,54,2021
+8,Total. Milers d'euros,Nou Barris,1,Ciutat Meridiana,50.2,55,55,2021
+8,Total. Milers d'euros,Nou Barris,1,Vallbona,--,56,56,2021
+9,Total. Milers d'euros,Sant Andreu,1,la Trinitat Vella,--,57,57,2021
+9,Total. Milers d'euros,Sant Andreu,1,Baró de Viver,--,58,58,2021
+9,Total. Milers d'euros,Sant Andreu,1,el Bon Pastor,144.1,59,59,2021
+9,Total. Milers d'euros,Sant Andreu,1,Sant Andreu,346.8,60,60,2021
+9,Total. Milers d'euros,Sant Andreu,1,la Sagrera,242.4,61,61,2021
+9,Total. Milers d'euros,Sant Andreu,1,el Congrés i els Indians,364.8,62,62,2021
+9,Total. Milers d'euros,Sant Andreu,1,Navas,271.2,63,63,2021
+10,Total. Milers d'euros,Sant Martí,1,el Camp de l'Arpa del Clot,217.3,64,64,2021
+10,Total. Milers d'euros,Sant Martí,1,el Clot,222.2,65,65,2021
+10,Total. Milers d'euros,Sant Martí,1,el Parc i la Llacuna del Poblenou,273.8,66,66,2021
+10,Total. Milers d'euros,Sant Martí,1,la Vila Olímpica del Poblenou,471.9,67,67,2021
+10,Total. Milers d'euros,Sant Martí,1,el Poblenou,323.9,68,68,2021
+10,Total. Milers d'euros,Sant Martí,1,Diagonal Mar i el Front Marítim del Poblenou,402.5,69,69,2021
+10,Total. Milers d'euros,Sant Martí,1,el Besòs i el Maresme,162.8,70,70,2021
+10,Total. Milers d'euros,Sant Martí,1,Provençals del Poblenou,244.3,71,71,2021
+10,Total. Milers d'euros,Sant Martí,1,Sant Martí de Provençals,221.2,72,72,2021
+10,Total. Milers d'euros,Sant Martí,1,la Verneda i la Pau,164.3,73,73,2021
+1,Nou. Milers d'euros,Ciutat Vella,1,el Raval,400.6,1,74,2021
+1,Nou. Milers d'euros,Ciutat Vella,1,el Barri Gòtic,--,2,75,2021
+1,Nou. Milers d'euros,Ciutat Vella,1,la Barceloneta,--,3,76,2021
+1,Nou. Milers d'euros,Ciutat Vella,1,"Sant Pere, Santa Caterina i la Ribera",525.0,4,77,2021
+2,Nou. Milers d'euros,Eixample,1,el Fort Pienc,--,5,78,2021
+2,Nou. Milers d'euros,Eixample,1,la Sagrada Família,139.1,6,79,2021
+2,Nou. Milers d'euros,Eixample,1,la Dreta de l'Eixample,1462.7,7,80,2021
+2,Nou. Milers d'euros,Eixample,1,l'Antiga Esquerra de l'Eixample,670.0,8,81,2021
+2,Nou. Milers d'euros,Eixample,1,la Nova Esquerra de l'Eixample,254.5,9,82,2021
+2,Nou. Milers d'euros,Eixample,1,Sant Antoni,--,10,83,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,el Poble Sec,228.0,11,84,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,la Marina del Prat Vermell,--,12,85,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,la Marina de Port,--,13,86,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,la Font de la Guatlla,--,14,87,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,Hostafrancs,--,15,88,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,la Bordeta,--,16,89,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,Sants - Badal,288.1,17,90,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,1,Sants,314.0,18,91,2021
+4,Nou. Milers d'euros,Les Corts,1,les Corts,516.8,19,92,2021
+4,Nou. Milers d'euros,Les Corts,1,la Maternitat i Sant Ramon,--,20,93,2021
+4,Nou. Milers d'euros,Les Corts,1,Pedralbes,--,21,94,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,1,"Vallvidrera, el Tibidabo i les Planes",--,22,95,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,1,Sarrià,486.0,23,96,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,1,les Tres Torres,--,24,97,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,1,Sant Gervasi - la Bonanova,795.0,25,98,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,1,Sant Gervasi - Galvany,652.2,26,99,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,1,el Putxet i el Farró,607.4,27,100,2021
+6,Nou. Milers d'euros,Gràcia,1,Vallcarca i els Penitents,502.5,28,101,2021
+6,Nou. Milers d'euros,Gràcia,1,el Coll,--,29,102,2021
+6,Nou. Milers d'euros,Gràcia,1,la Salut,--,30,103,2021
+6,Nou. Milers d'euros,Gràcia,1,la Vila de Gràcia,275.0,31,104,2021
+6,Nou. Milers d'euros,Gràcia,1,el Camp d'en Grassot i Gràcia Nova,--,32,105,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,el Baix Guinardó,--,33,106,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,Can Baró,--,34,107,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,el Guinardó,133.2,35,108,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,la Font d'en Fargues,--,36,109,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,el Carmel,126.5,37,110,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,la Teixonera,219.2,38,111,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,Sant Genís dels Agudells,--,39,112,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,Montbau,--,40,113,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,la Vall d'Hebron,--,41,114,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,la Clota,--,42,115,2021
+7,Nou. Milers d'euros,Horta-Guinardó,1,Horta,380.7,43,116,2021
+8,Nou. Milers d'euros,Nou Barris,1,Vilapicina i la Torre Llobeta,316.7,44,117,2021
+8,Nou. Milers d'euros,Nou Barris,1,Porta,--,45,118,2021
+8,Nou. Milers d'euros,Nou Barris,1,el Turó de la Peira,--,46,119,2021
+8,Nou. Milers d'euros,Nou Barris,1,Can Peguera,--,47,120,2021
+8,Nou. Milers d'euros,Nou Barris,1,la Guineueta,--,48,121,2021
+8,Nou. Milers d'euros,Nou Barris,1,Canyelles,--,49,122,2021
+8,Nou. Milers d'euros,Nou Barris,1,les Roquetes,--,50,123,2021
+8,Nou. Milers d'euros,Nou Barris,1,Verdun,--,51,124,2021
+8,Nou. Milers d'euros,Nou Barris,1,la Prosperitat,--,52,125,2021
+8,Nou. Milers d'euros,Nou Barris,1,la Trinitat Nova,--,53,126,2021
+8,Nou. Milers d'euros,Nou Barris,1,Torre Baró,--,54,127,2021
+8,Nou. Milers d'euros,Nou Barris,1,Ciutat Meridiana,--,55,128,2021
+8,Nou. Milers d'euros,Nou Barris,1,Vallbona,--,56,129,2021
+9,Nou. Milers d'euros,Sant Andreu,1,la Trinitat Vella,--,57,130,2021
+9,Nou. Milers d'euros,Sant Andreu,1,Baró de Viver,--,58,131,2021
+9,Nou. Milers d'euros,Sant Andreu,1,el Bon Pastor,--,59,132,2021
+9,Nou. Milers d'euros,Sant Andreu,1,Sant Andreu,375.1,60,133,2021
+9,Nou. Milers d'euros,Sant Andreu,1,la Sagrera,--,61,134,2021
+9,Nou. Milers d'euros,Sant Andreu,1,el Congrés i els Indians,--,62,135,2021
+9,Nou. Milers d'euros,Sant Andreu,1,Navas,--,63,136,2021
+10,Nou. Milers d'euros,Sant Martí,1,el Camp de l'Arpa del Clot,--,64,137,2021
+10,Nou. Milers d'euros,Sant Martí,1,el Clot,--,65,138,2021
+10,Nou. Milers d'euros,Sant Martí,1,el Parc i la Llacuna del Poblenou,160.0,66,139,2021
+10,Nou. Milers d'euros,Sant Martí,1,la Vila Olímpica del Poblenou,--,67,140,2021
+10,Nou. Milers d'euros,Sant Martí,1,el Poblenou,--,68,141,2021
+10,Nou. Milers d'euros,Sant Martí,1,Diagonal Mar i el Front Marítim del Poblenou,--,69,142,2021
+10,Nou. Milers d'euros,Sant Martí,1,el Besòs i el Maresme,240.4,70,143,2021
+10,Nou. Milers d'euros,Sant Martí,1,Provençals del Poblenou,250.0,71,144,2021
+10,Nou. Milers d'euros,Sant Martí,1,Sant Martí de Provençals,--,72,145,2021
+10,Nou. Milers d'euros,Sant Martí,1,la Verneda i la Pau,--,73,146,2021
+1,Usat. Milers d'euros,Ciutat Vella,1,el Raval,161.4,1,147,2021
+1,Usat. Milers d'euros,Ciutat Vella,1,el Barri Gòtic,303.8,2,148,2021
+1,Usat. Milers d'euros,Ciutat Vella,1,la Barceloneta,187.8,3,149,2021
+1,Usat. Milers d'euros,Ciutat Vella,1,"Sant Pere, Santa Caterina i la Ribera",225.4,4,150,2021
+2,Usat. Milers d'euros,Eixample,1,el Fort Pienc,300.5,5,151,2021
+2,Usat. Milers d'euros,Eixample,1,la Sagrada Família,319.3,6,152,2021
+2,Usat. Milers d'euros,Eixample,1,la Dreta de l'Eixample,627.3,7,153,2021
+2,Usat. Milers d'euros,Eixample,1,l'Antiga Esquerra de l'Eixample,420.0,8,154,2021
+2,Usat. Milers d'euros,Eixample,1,la Nova Esquerra de l'Eixample,344.0,9,155,2021
+2,Usat. Milers d'euros,Eixample,1,Sant Antoni,337.9,10,156,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,el Poble Sec,255.4,11,157,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,la Marina del Prat Vermell,274.9,12,158,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,la Marina de Port,213.9,13,159,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,la Font de la Guatlla,250.5,14,160,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,Hostafrancs,260.8,15,161,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,la Bordeta,188.5,16,162,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,Sants - Badal,205.3,17,163,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,1,Sants,265.1,18,164,2021
+4,Usat. Milers d'euros,Les Corts,1,les Corts,411.3,19,165,2021
+4,Usat. Milers d'euros,Les Corts,1,la Maternitat i Sant Ramon,343.2,20,166,2021
+4,Usat. Milers d'euros,Les Corts,1,Pedralbes,984.0,21,167,2021
+8,Usat. Milers d'euros,Nou Barris,1,Canyelles,209.5,49,195,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,1,"Vallvidrera, el Tibidabo i les Planes",414.4,22,168,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,1,Sarrià,584.2,23,169,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,1,les Tres Torres,1005.4,24,170,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,1,Sant Gervasi - la Bonanova,877.6,25,171,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,1,Sant Gervasi - Galvany,967.2,26,172,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,1,el Putxet i el Farró,427.6,27,173,2021
+6,Usat. Milers d'euros,Gràcia,1,Vallcarca i els Penitents,345.6,28,174,2021
+6,Usat. Milers d'euros,Gràcia,1,el Coll,197.8,29,175,2021
+6,Usat. Milers d'euros,Gràcia,1,la Salut,289.6,30,176,2021
+6,Usat. Milers d'euros,Gràcia,1,la Vila de Gràcia,347.2,31,177,2021
+6,Usat. Milers d'euros,Gràcia,1,el Camp d'en Grassot i Gràcia Nova,364.8,32,178,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,el Baix Guinardó,217.9,33,179,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,Can Baró,224.7,34,180,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,el Guinardó,254.4,35,181,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,la Font d'en Fargues,358.3,36,182,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,el Carmel,139.4,37,183,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,la Teixonera,127.1,38,184,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,Sant Genís dels Agudells,161.1,39,185,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,Montbau,178.8,40,186,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,la Vall d'Hebron,315.0,41,187,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,la Clota,--,42,188,2021
+7,Usat. Milers d'euros,Horta-Guinardó,1,Horta,228.9,43,189,2021
+8,Usat. Milers d'euros,Nou Barris,1,Vilapicina i la Torre Llobeta,214.6,44,190,2021
+8,Usat. Milers d'euros,Nou Barris,1,Porta,142.9,45,191,2021
+8,Usat. Milers d'euros,Nou Barris,1,el Turó de la Peira,141.6,46,192,2021
+8,Usat. Milers d'euros,Nou Barris,1,Can Peguera,215.0,47,193,2021
+8,Usat. Milers d'euros,Nou Barris,1,la Guineueta,195.5,48,194,2021
+8,Usat. Milers d'euros,Nou Barris,1,les Roquetes,123.8,50,196,2021
+8,Usat. Milers d'euros,Nou Barris,1,Verdun,121.7,51,197,2021
+8,Usat. Milers d'euros,Nou Barris,1,la Prosperitat,145.1,52,198,2021
+8,Usat. Milers d'euros,Nou Barris,1,la Trinitat Nova,105.1,53,199,2021
+8,Usat. Milers d'euros,Nou Barris,1,Torre Baró,288.5,54,200,2021
+8,Usat. Milers d'euros,Nou Barris,1,Ciutat Meridiana,50.2,55,201,2021
+8,Usat. Milers d'euros,Nou Barris,1,Vallbona,--,56,202,2021
+9,Usat. Milers d'euros,Sant Andreu,1,la Trinitat Vella,--,57,203,2021
+9,Usat. Milers d'euros,Sant Andreu,1,Baró de Viver,--,58,204,2021
+9,Usat. Milers d'euros,Sant Andreu,1,el Bon Pastor,144.1,59,205,2021
+9,Usat. Milers d'euros,Sant Andreu,1,Sant Andreu,327.4,60,206,2021
+9,Usat. Milers d'euros,Sant Andreu,1,la Sagrera,242.4,61,207,2021
+9,Usat. Milers d'euros,Sant Andreu,1,el Congrés i els Indians,336.0,62,208,2021
+9,Usat. Milers d'euros,Sant Andreu,1,Navas,271.2,63,209,2021
+10,Usat. Milers d'euros,Sant Martí,1,el Camp de l'Arpa del Clot,217.3,64,210,2021
+10,Usat. Milers d'euros,Sant Martí,1,el Clot,222.2,65,211,2021
+10,Usat. Milers d'euros,Sant Martí,1,el Parc i la Llacuna del Poblenou,290.9,66,212,2021
+10,Usat. Milers d'euros,Sant Martí,1,la Vila Olímpica del Poblenou,483.8,67,213,2021
+10,Usat. Milers d'euros,Sant Martí,1,el Poblenou,321.5,68,214,2021
+10,Usat. Milers d'euros,Sant Martí,1,Diagonal Mar i el Front Marítim del Poblenou,402.5,69,215,2021
+10,Usat. Milers d'euros,Sant Martí,1,el Besòs i el Maresme,134.6,70,216,2021
+10,Usat. Milers d'euros,Sant Martí,1,Provençals del Poblenou,243.1,71,217,2021
+10,Usat. Milers d'euros,Sant Martí,1,Sant Martí de Provençals,221.2,72,218,2021
+10,Usat. Milers d'euros,Sant Martí,1,la Verneda i la Pau,164.3,73,219,2021
+1,Total. Euros/m2 construït,Ciutat Vella,1,el Raval,3013.4,1,220,2021
+1,Total. Euros/m2 construït,Ciutat Vella,1,el Barri Gòtic,3576.6,2,221,2021
+1,Total. Euros/m2 construït,Ciutat Vella,1,la Barceloneta,4169.0,3,222,2021
+1,Total. Euros/m2 construït,Ciutat Vella,1,"Sant Pere, Santa Caterina i la Ribera",3947.2,4,223,2021
+2,Total. Euros/m2 construït,Eixample,1,el Fort Pienc,3733.6,5,224,2021
+2,Total. Euros/m2 construït,Eixample,1,la Sagrada Família,4011.1,6,225,2021
+2,Total. Euros/m2 construït,Eixample,1,la Dreta de l'Eixample,6046.9,7,226,2021
+2,Total. Euros/m2 construït,Eixample,1,l'Antiga Esquerra de l'Eixample,4688.1,8,227,2021
+2,Total. Euros/m2 construït,Eixample,1,la Nova Esquerra de l'Eixample,4246.2,9,228,2021
+2,Total. Euros/m2 construït,Eixample,1,Sant Antoni,4206.0,10,229,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,el Poble Sec,4109.9,11,230,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,la Marina del Prat Vermell,3524.9,12,231,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,la Marina de Port,2921.7,13,232,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,la Font de la Guatlla,3809.8,14,233,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,Hostafrancs,4161.3,15,234,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,la Bordeta,2836.1,16,235,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,Sants - Badal,3650.4,17,236,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,1,Sants,4065.3,18,237,2021
+4,Total. Euros/m2 construït,Les Corts,1,les Corts,5023.3,19,238,2021
+4,Total. Euros/m2 construït,Les Corts,1,la Maternitat i Sant Ramon,3827.6,20,239,2021
+4,Total. Euros/m2 construït,Les Corts,1,Pedralbes,5923.8,21,240,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,1,"Vallvidrera, el Tibidabo i les Planes",3103.6,22,241,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sarrià,5260.0,23,242,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,1,les Tres Torres,5623.1,24,243,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sant Gervasi - la Bonanova,6324.8,25,244,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sant Gervasi - Galvany,7076.5,26,245,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,1,el Putxet i el Farró,5019.2,27,246,2021
+6,Total. Euros/m2 construït,Gràcia,1,Vallcarca i els Penitents,4076.6,28,247,2021
+6,Total. Euros/m2 construït,Gràcia,1,el Coll,2885.7,29,248,2021
+6,Total. Euros/m2 construït,Gràcia,1,la Salut,4083.9,30,249,2021
+6,Total. Euros/m2 construït,Gràcia,1,la Vila de Gràcia,4410.7,31,250,2021
+6,Total. Euros/m2 construït,Gràcia,1,el Camp d'en Grassot i Gràcia Nova,4515.2,32,251,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,el Baix Guinardó,2654.0,33,252,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,Can Baró,3105.3,34,253,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,el Guinardó,2913.6,35,254,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,la Font d'en Fargues,4086.9,36,255,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,el Carmel,2433.6,37,256,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,la Teixonera,2779.0,38,257,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,Sant Genís dels Agudells,2208.0,39,258,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,Montbau,2556.3,40,259,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,la Vall d'Hebron,2931.9,41,260,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,la Clota,--,42,261,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,1,Horta,3510.8,43,262,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Vilapicina i la Torre Llobeta,3427.7,44,263,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Porta,2562.4,45,264,2021
+8,Total. Euros/m2 construït,Nou Barris,1,el Turó de la Peira,2188.1,46,265,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Can Peguera,2905.4,47,266,2021
+8,Total. Euros/m2 construït,Nou Barris,1,la Guineueta,2412.9,48,267,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Canyelles,2775.6,49,268,2021
+8,Total. Euros/m2 construït,Nou Barris,1,les Roquetes,2339.2,50,269,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Verdun,2744.3,51,270,2021
+8,Total. Euros/m2 construït,Nou Barris,1,la Prosperitat,2683.2,52,271,2021
+8,Total. Euros/m2 construït,Nou Barris,1,la Trinitat Nova,1909.2,53,272,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Torre Baró,2508.0,54,273,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Ciutat Meridiana,859.1,55,274,2021
+8,Total. Euros/m2 construït,Nou Barris,1,Vallbona,--,56,275,2021
+9,Total. Euros/m2 construït,Sant Andreu,1,la Trinitat Vella,--,57,276,2021
+9,Total. Euros/m2 construït,Sant Andreu,1,Baró de Viver,--,58,277,2021
+9,Total. Euros/m2 construït,Sant Andreu,1,el Bon Pastor,2056.7,59,278,2021
+9,Total. Euros/m2 construït,Sant Andreu,1,Sant Andreu,4106.8,60,279,2021
+9,Total. Euros/m2 construït,Sant Andreu,1,la Sagrera,3852.5,61,280,2021
+9,Total. Euros/m2 construït,Sant Andreu,1,el Congrés i els Indians,5407.9,62,281,2021
+9,Total. Euros/m2 construït,Sant Andreu,1,Navas,3668.0,63,282,2021
+10,Total. Euros/m2 construït,Sant Martí,1,el Camp de l'Arpa del Clot,3300.6,64,283,2021
+10,Total. Euros/m2 construït,Sant Martí,1,el Clot,3630.3,65,284,2021
+10,Total. Euros/m2 construït,Sant Martí,1,el Parc i la Llacuna del Poblenou,3810.5,66,285,2021
+10,Total. Euros/m2 construït,Sant Martí,1,la Vila Olímpica del Poblenou,4480.4,67,286,2021
+10,Total. Euros/m2 construït,Sant Martí,1,el Poblenou,4482.7,68,287,2021
+10,Total. Euros/m2 construït,Sant Martí,1,Diagonal Mar i el Front Marítim del Poblenou,4221.8,69,288,2021
+10,Total. Euros/m2 construït,Sant Martí,1,el Besòs i el Maresme,2314.4,70,289,2021
+10,Total. Euros/m2 construït,Sant Martí,1,Provençals del Poblenou,3271.5,71,290,2021
+10,Total. Euros/m2 construït,Sant Martí,1,Sant Martí de Provençals,2829.8,72,291,2021
+10,Total. Euros/m2 construït,Sant Martí,1,la Verneda i la Pau,2169.4,73,292,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,1,el Raval,6059.9,1,293,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,1,el Barri Gòtic,--,2,294,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,1,la Barceloneta,--,3,295,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,1,"Sant Pere, Santa Caterina i la Ribera",5263.9,4,296,2021
+2,Nou. Euros/m2 construït,Eixample,1,el Fort Pienc,--,5,297,2021
+2,Nou. Euros/m2 construït,Eixample,1,la Sagrada Família,2230.6,6,298,2021
+2,Nou. Euros/m2 construït,Eixample,1,la Dreta de l'Eixample,8111.2,7,299,2021
+2,Nou. Euros/m2 construït,Eixample,1,l'Antiga Esquerra de l'Eixample,6806.9,8,300,2021
+2,Nou. Euros/m2 construït,Eixample,1,la Nova Esquerra de l'Eixample,3158.7,9,301,2021
+2,Nou. Euros/m2 construït,Eixample,1,Sant Antoni,--,10,302,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,el Poble Sec,3627.9,11,303,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,la Marina del Prat Vermell,--,12,304,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,la Marina de Port,--,13,305,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,la Font de la Guatlla,--,14,306,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,Hostafrancs,--,15,307,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,la Bordeta,--,16,308,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,Sants - Badal,3818.2,17,309,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,1,Sants,5226.4,18,310,2021
+4,Nou. Euros/m2 construït,Les Corts,1,les Corts,5320.8,19,311,2021
+4,Nou. Euros/m2 construït,Les Corts,1,la Maternitat i Sant Ramon,--,20,312,2021
+4,Nou. Euros/m2 construït,Les Corts,1,Pedralbes,--,21,313,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,1,"Vallvidrera, el Tibidabo i les Planes",--,22,314,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sarrià,4789.1,23,315,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,1,les Tres Torres,--,24,316,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sant Gervasi - la Bonanova,4934.9,25,317,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sant Gervasi - Galvany,6426.7,26,318,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,1,el Putxet i el Farró,6242.4,27,319,2021
+6,Nou. Euros/m2 construït,Gràcia,1,Vallcarca i els Penitents,4180.5,28,320,2021
+6,Nou. Euros/m2 construït,Gràcia,1,el Coll,--,29,321,2021
+6,Nou. Euros/m2 construït,Gràcia,1,la Salut,--,30,322,2021
+6,Nou. Euros/m2 construït,Gràcia,1,la Vila de Gràcia,5266.1,31,323,2021
+6,Nou. Euros/m2 construït,Gràcia,1,el Camp d'en Grassot i Gràcia Nova,--,32,324,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,el Baix Guinardó,--,33,325,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,Can Baró,--,34,326,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,el Guinardó,1849.0,35,327,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,la Font d'en Fargues,--,36,328,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,el Carmel,2228.3,37,329,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,la Teixonera,3377.6,38,330,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,Sant Genís dels Agudells,--,39,331,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,Montbau,--,40,332,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,la Vall d'Hebron,--,41,333,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,la Clota,--,42,334,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,1,Horta,3832.4,43,335,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Vilapicina i la Torre Llobeta,5035.2,44,336,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Porta,--,45,337,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,el Turó de la Peira,--,46,338,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Can Peguera,--,47,339,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,la Guineueta,--,48,340,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Canyelles,--,49,341,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,les Roquetes,--,50,342,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Verdun,--,51,343,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,la Prosperitat,--,52,344,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,la Trinitat Nova,--,53,345,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Torre Baró,--,54,346,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Ciutat Meridiana,--,55,347,2021
+8,Nou. Euros/m2 construït,Nou Barris,1,Vallbona,--,56,348,2021
+9,Nou. Euros/m2 construït,Sant Andreu,1,la Trinitat Vella,--,57,349,2021
+9,Nou. Euros/m2 construït,Sant Andreu,1,Baró de Viver,--,58,350,2021
+9,Nou. Euros/m2 construït,Sant Andreu,1,el Bon Pastor,--,59,351,2021
+9,Nou. Euros/m2 construït,Sant Andreu,1,Sant Andreu,4908.5,60,352,2021
+9,Nou. Euros/m2 construït,Sant Andreu,1,la Sagrera,--,61,353,2021
+9,Nou. Euros/m2 construït,Sant Andreu,1,el Congrés i els Indians,--,62,354,2021
+9,Nou. Euros/m2 construït,Sant Andreu,1,Navas,--,63,355,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,el Camp de l'Arpa del Clot,--,64,356,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,el Clot,--,65,357,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,el Parc i la Llacuna del Poblenou,2280.8,66,358,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,la Vila Olímpica del Poblenou,--,67,359,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,el Poblenou,--,68,360,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,Diagonal Mar i el Front Marítim del Poblenou,--,69,361,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,el Besòs i el Maresme,2553.6,70,362,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,Provençals del Poblenou,3356.7,71,363,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,Sant Martí de Provençals,--,72,364,2021
+10,Nou. Euros/m2 construït,Sant Martí,1,la Verneda i la Pau,--,73,365,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,1,el Raval,2934.3,1,366,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,1,el Barri Gòtic,3541.3,2,367,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,1,la Barceloneta,4220.6,3,368,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,1,"Sant Pere, Santa Caterina i la Ribera",3804.9,4,369,2021
+2,Usat. Euros/m2 construït,Eixample,1,el Fort Pienc,3749.9,5,370,2021
+2,Usat. Euros/m2 construït,Eixample,1,la Sagrada Família,4148.0,6,371,2021
+2,Usat. Euros/m2 construït,Eixample,1,la Dreta de l'Eixample,5959.6,7,372,2021
+2,Usat. Euros/m2 construït,Eixample,1,l'Antiga Esquerra de l'Eixample,4604.5,8,373,2021
+2,Usat. Euros/m2 construït,Eixample,1,la Nova Esquerra de l'Eixample,4369.3,9,374,2021
+2,Usat. Euros/m2 construït,Eixample,1,Sant Antoni,4206.0,10,375,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,el Poble Sec,4270.5,11,376,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,la Marina del Prat Vermell,3524.9,12,377,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,la Marina de Port,2921.7,13,378,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,la Font de la Guatlla,3809.8,14,379,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,Hostafrancs,4171.3,15,380,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,la Bordeta,2618.5,16,381,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,Sants - Badal,3530.5,17,382,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,1,Sants,3698.6,18,383,2021
+4,Usat. Euros/m2 construït,Les Corts,1,les Corts,4977.2,19,384,2021
+4,Usat. Euros/m2 construït,Les Corts,1,la Maternitat i Sant Ramon,3827.6,20,385,2021
+4,Usat. Euros/m2 construït,Les Corts,1,Pedralbes,5923.8,21,386,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,1,"Vallvidrera, el Tibidabo i les Planes",3419.7,22,387,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sarrià,5299.2,23,388,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,1,les Tres Torres,5623.1,24,389,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sant Gervasi - la Bonanova,6602.8,25,390,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,1,Sant Gervasi - Galvany,7181.6,26,391,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,1,el Putxet i el Farró,4898.9,27,392,2021
+6,Usat. Euros/m2 construït,Gràcia,1,Vallcarca i els Penitents,4043.5,28,393,2021
+6,Usat. Euros/m2 construït,Gràcia,1,el Coll,2775.0,29,394,2021
+6,Usat. Euros/m2 construït,Gràcia,1,la Salut,4083.9,30,395,2021
+6,Usat. Euros/m2 construït,Gràcia,1,la Vila de Gràcia,4388.4,31,396,2021
+6,Usat. Euros/m2 construït,Gràcia,1,el Camp d'en Grassot i Gràcia Nova,4515.2,32,397,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,el Baix Guinardó,2654.0,33,398,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,Can Baró,3105.3,34,399,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,el Guinardó,3591.1,35,400,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,la Font d'en Fargues,4086.9,36,401,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,el Carmel,2484.9,37,402,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,la Teixonera,2255.2,38,403,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,Sant Genís dels Agudells,2201.0,39,404,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,Montbau,2635.6,40,405,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,la Vall d'Hebron,3742.1,41,406,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,la Clota,--,42,407,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,1,Horta,3426.9,43,408,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Vilapicina i la Torre Llobeta,3198.1,44,409,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Porta,2562.4,45,410,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,el Turó de la Peira,2188.1,46,411,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Can Peguera,2905.4,47,412,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,la Guineueta,2412.9,48,413,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Canyelles,2775.6,49,414,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,les Roquetes,2339.2,50,415,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Verdun,1925.7,51,416,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,la Prosperitat,2683.2,52,417,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,la Trinitat Nova,1909.2,53,418,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Torre Baró,2508.0,54,419,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Ciutat Meridiana,859.1,55,420,2021
+8,Usat. Euros/m2 construït,Nou Barris,1,Vallbona,--,56,421,2021
+9,Usat. Euros/m2 construït,Sant Andreu,1,la Trinitat Vella,--,57,422,2021
+9,Usat. Euros/m2 construït,Sant Andreu,1,Baró de Viver,--,58,423,2021
+9,Usat. Euros/m2 construït,Sant Andreu,1,el Bon Pastor,2056.7,59,424,2021
+9,Usat. Euros/m2 construït,Sant Andreu,1,Sant Andreu,3555.7,60,425,2021
+9,Usat. Euros/m2 construït,Sant Andreu,1,la Sagrera,3852.5,61,426,2021
+9,Usat. Euros/m2 construït,Sant Andreu,1,el Congrés i els Indians,4617.1,62,427,2021
+9,Usat. Euros/m2 construït,Sant Andreu,1,Navas,3668.0,63,428,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,el Camp de l'Arpa del Clot,3300.6,64,429,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,el Clot,3630.3,65,430,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,el Parc i la Llacuna del Poblenou,4040.0,66,431,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,la Vila Olímpica del Poblenou,4684.1,67,432,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,el Poblenou,4496.5,68,433,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,Diagonal Mar i el Front Marítim del Poblenou,4221.8,69,434,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,el Besòs i el Maresme,2227.4,70,435,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,Provençals del Poblenou,3252.6,71,436,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,Sant Martí de Provençals,2829.8,72,437,2021
+10,Usat. Euros/m2 construït,Sant Martí,1,la Verneda i la Pau,2169.4,73,438,2021
+1,Total. Milers d'euros,Ciutat Vella,2,el Raval,250.3,1,439,2021
+1,Total. Milers d'euros,Ciutat Vella,2,el Barri Gòtic,410.0,2,440,2021
+1,Total. Milers d'euros,Ciutat Vella,2,la Barceloneta,174.7,3,441,2021
+1,Total. Milers d'euros,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",254.8,4,442,2021
+2,Total. Milers d'euros,Eixample,2,el Fort Pienc,356.5,5,443,2021
+2,Total. Milers d'euros,Eixample,2,la Sagrada Família,309.2,6,444,2021
+2,Total. Milers d'euros,Eixample,2,la Dreta de l'Eixample,549.6,7,445,2021
+2,Total. Milers d'euros,Eixample,2,l'Antiga Esquerra de l'Eixample,471.6,8,446,2021
+2,Total. Milers d'euros,Eixample,2,la Nova Esquerra de l'Eixample,368.4,9,447,2021
+2,Total. Milers d'euros,Eixample,2,Sant Antoni,342.7,10,448,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,el Poble Sec,358.3,11,449,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,la Marina del Prat Vermell,145.4,12,450,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,la Marina de Port,271.7,13,451,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,la Font de la Guatlla,269.6,14,452,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,Hostafrancs,307.1,15,453,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,la Bordeta,224.5,16,454,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,Sants - Badal,225.3,17,455,2021
+3,Total. Milers d'euros,Sants-Montjuïc,2,Sants,285.4,18,456,2021
+4,Total. Milers d'euros,Les Corts,2,les Corts,360.3,19,457,2021
+4,Total. Milers d'euros,Les Corts,2,la Maternitat i Sant Ramon,376.2,20,458,2021
+4,Total. Milers d'euros,Les Corts,2,Pedralbes,581.9,21,459,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,2,"Vallvidrera, el Tibidabo i les Planes",336.0,22,460,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,2,Sarrià,638.6,23,461,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,2,les Tres Torres,1018.7,24,462,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,2,Sant Gervasi - la Bonanova,809.7,25,463,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,2,Sant Gervasi - Galvany,979.0,26,464,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,2,el Putxet i el Farró,443.0,27,465,2021
+6,Total. Milers d'euros,Gràcia,2,Vallcarca i els Penitents,344.2,28,466,2021
+6,Total. Milers d'euros,Gràcia,2,el Coll,263.2,29,467,2021
+6,Total. Milers d'euros,Gràcia,2,la Salut,374.2,30,468,2021
+6,Total. Milers d'euros,Gràcia,2,la Vila de Gràcia,341.6,31,469,2021
+6,Total. Milers d'euros,Gràcia,2,el Camp d'en Grassot i Gràcia Nova,300.1,32,470,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,el Baix Guinardó,233.8,33,471,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,Can Baró,263.3,34,472,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,el Guinardó,228.3,35,473,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,la Font d'en Fargues,305.4,36,474,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,el Carmel,140.2,37,475,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,la Teixonera,156.6,38,476,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,Sant Genís dels Agudells,204.8,39,477,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,Montbau,193.8,40,478,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,la Vall d'Hebron,306.7,41,479,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,la Clota,--,42,480,2021
+7,Total. Milers d'euros,Horta-Guinardó,2,Horta,205.8,43,481,2021
+8,Total. Milers d'euros,Nou Barris,2,Vilapicina i la Torre Llobeta,229.5,44,482,2021
+8,Total. Milers d'euros,Nou Barris,2,Porta,175.1,45,483,2021
+8,Total. Milers d'euros,Nou Barris,2,el Turó de la Peira,144.9,46,484,2021
+8,Total. Milers d'euros,Nou Barris,2,Can Peguera,--,47,485,2021
+8,Total. Milers d'euros,Nou Barris,2,la Guineueta,176.6,48,486,2021
+8,Total. Milers d'euros,Nou Barris,2,Canyelles,183.3,49,487,2021
+8,Total. Milers d'euros,Nou Barris,2,les Roquetes,97.6,50,488,2021
+8,Total. Milers d'euros,Nou Barris,2,Verdun,163.7,51,489,2021
+8,Total. Milers d'euros,Nou Barris,2,la Prosperitat,138.3,52,490,2021
+8,Total. Milers d'euros,Nou Barris,2,la Trinitat Nova,110.8,53,491,2021
+8,Total. Milers d'euros,Nou Barris,2,Torre Baró,--,54,492,2021
+8,Total. Milers d'euros,Nou Barris,2,Ciutat Meridiana,65.9,55,493,2021
+8,Total. Milers d'euros,Nou Barris,2,Vallbona,--,56,494,2021
+9,Total. Milers d'euros,Sant Andreu,2,la Trinitat Vella,108.3,57,495,2021
+9,Total. Milers d'euros,Sant Andreu,2,Baró de Viver,--,58,496,2021
+9,Total. Milers d'euros,Sant Andreu,2,el Bon Pastor,162.3,59,497,2021
+9,Total. Milers d'euros,Sant Andreu,2,Sant Andreu,343.7,60,498,2021
+9,Total. Milers d'euros,Sant Andreu,2,la Sagrera,248.9,61,499,2021
+9,Total. Milers d'euros,Sant Andreu,2,el Congrés i els Indians,324.3,62,500,2021
+9,Total. Milers d'euros,Sant Andreu,2,Navas,266.2,63,501,2021
+10,Total. Milers d'euros,Sant Martí,2,el Camp de l'Arpa del Clot,226.3,64,502,2021
+10,Total. Milers d'euros,Sant Martí,2,el Clot,262.9,65,503,2021
+10,Total. Milers d'euros,Sant Martí,2,el Parc i la Llacuna del Poblenou,306.7,66,504,2021
+10,Total. Milers d'euros,Sant Martí,2,la Vila Olímpica del Poblenou,295.4,67,505,2021
+10,Total. Milers d'euros,Sant Martí,2,el Poblenou,372.5,68,506,2021
+10,Total. Milers d'euros,Sant Martí,2,Diagonal Mar i el Front Marítim del Poblenou,438.7,69,507,2021
+10,Total. Milers d'euros,Sant Martí,2,el Besòs i el Maresme,202.0,70,508,2021
+10,Total. Milers d'euros,Sant Martí,2,Provençals del Poblenou,237.7,71,509,2021
+10,Total. Milers d'euros,Sant Martí,2,Sant Martí de Provençals,183.0,72,510,2021
+10,Total. Milers d'euros,Sant Martí,2,la Verneda i la Pau,163.7,73,511,2021
+1,Nou. Milers d'euros,Ciutat Vella,2,el Raval,--,1,512,2021
+1,Nou. Milers d'euros,Ciutat Vella,2,el Barri Gòtic,512.3,2,513,2021
+1,Nou. Milers d'euros,Ciutat Vella,2,la Barceloneta,--,3,514,2021
+1,Nou. Milers d'euros,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",539.0,4,515,2021
+2,Nou. Milers d'euros,Eixample,2,el Fort Pienc,--,5,516,2021
+2,Nou. Milers d'euros,Eixample,2,la Sagrada Família,190.9,6,517,2021
+2,Nou. Milers d'euros,Eixample,2,la Dreta de l'Eixample,743.3,7,518,2021
+2,Nou. Milers d'euros,Eixample,2,l'Antiga Esquerra de l'Eixample,--,8,519,2021
+2,Nou. Milers d'euros,Eixample,2,la Nova Esquerra de l'Eixample,382.0,9,520,2021
+2,Nou. Milers d'euros,Eixample,2,Sant Antoni,--,10,521,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,el Poble Sec,--,11,522,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,la Marina del Prat Vermell,--,12,523,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,la Marina de Port,--,13,524,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,la Font de la Guatlla,--,14,525,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,Hostafrancs,381.0,15,526,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,la Bordeta,251.7,16,527,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,Sants - Badal,305.0,17,528,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,2,Sants,268.7,18,529,2021
+4,Nou. Milers d'euros,Les Corts,2,les Corts,407.0,19,530,2021
+4,Nou. Milers d'euros,Les Corts,2,la Maternitat i Sant Ramon,--,20,531,2021
+4,Nou. Milers d'euros,Les Corts,2,Pedralbes,345.0,21,532,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,2,"Vallvidrera, el Tibidabo i les Planes",190.0,22,533,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,2,Sarrià,--,23,534,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,2,les Tres Torres,--,24,535,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,2,Sant Gervasi - la Bonanova,765.5,25,536,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,2,Sant Gervasi - Galvany,951.4,26,537,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,2,el Putxet i el Farró,622.0,27,538,2021
+6,Nou. Milers d'euros,Gràcia,2,Vallcarca i els Penitents,434.3,28,539,2021
+6,Nou. Milers d'euros,Gràcia,2,el Coll,277.8,29,540,2021
+6,Nou. Milers d'euros,Gràcia,2,la Salut,--,30,541,2021
+6,Nou. Milers d'euros,Gràcia,2,la Vila de Gràcia,--,31,542,2021
+6,Nou. Milers d'euros,Gràcia,2,el Camp d'en Grassot i Gràcia Nova,--,32,543,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,el Baix Guinardó,--,33,544,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,Can Baró,--,34,545,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,el Guinardó,252.8,35,546,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,la Font d'en Fargues,--,36,547,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,el Carmel,134.4,37,548,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,la Teixonera,155.6,38,549,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,Sant Genís dels Agudells,--,39,550,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,Montbau,--,40,551,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,la Vall d'Hebron,--,41,552,2021
+8,Usat. Milers d'euros,Nou Barris,2,Torre Baró,--,54,638,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,la Clota,--,42,553,2021
+7,Nou. Milers d'euros,Horta-Guinardó,2,Horta,253.4,43,554,2021
+8,Nou. Milers d'euros,Nou Barris,2,Vilapicina i la Torre Llobeta,259.8,44,555,2021
+8,Nou. Milers d'euros,Nou Barris,2,Porta,--,45,556,2021
+8,Nou. Milers d'euros,Nou Barris,2,el Turó de la Peira,--,46,557,2021
+8,Nou. Milers d'euros,Nou Barris,2,Can Peguera,--,47,558,2021
+8,Nou. Milers d'euros,Nou Barris,2,la Guineueta,--,48,559,2021
+8,Nou. Milers d'euros,Nou Barris,2,Canyelles,--,49,560,2021
+8,Nou. Milers d'euros,Nou Barris,2,les Roquetes,--,50,561,2021
+8,Nou. Milers d'euros,Nou Barris,2,Verdun,--,51,562,2021
+8,Nou. Milers d'euros,Nou Barris,2,la Prosperitat,--,52,563,2021
+8,Nou. Milers d'euros,Nou Barris,2,la Trinitat Nova,--,53,564,2021
+8,Nou. Milers d'euros,Nou Barris,2,Torre Baró,--,54,565,2021
+8,Nou. Milers d'euros,Nou Barris,2,Ciutat Meridiana,--,55,566,2021
+8,Nou. Milers d'euros,Nou Barris,2,Vallbona,--,56,567,2021
+9,Nou. Milers d'euros,Sant Andreu,2,la Trinitat Vella,--,57,568,2021
+9,Nou. Milers d'euros,Sant Andreu,2,Baró de Viver,--,58,569,2021
+9,Nou. Milers d'euros,Sant Andreu,2,el Bon Pastor,--,59,570,2021
+9,Nou. Milers d'euros,Sant Andreu,2,Sant Andreu,365.3,60,571,2021
+9,Nou. Milers d'euros,Sant Andreu,2,la Sagrera,--,61,572,2021
+9,Nou. Milers d'euros,Sant Andreu,2,el Congrés i els Indians,--,62,573,2021
+9,Nou. Milers d'euros,Sant Andreu,2,Navas,--,63,574,2021
+10,Nou. Milers d'euros,Sant Martí,2,el Camp de l'Arpa del Clot,--,64,575,2021
+10,Nou. Milers d'euros,Sant Martí,2,el Clot,--,65,576,2021
+10,Nou. Milers d'euros,Sant Martí,2,el Parc i la Llacuna del Poblenou,--,66,577,2021
+10,Nou. Milers d'euros,Sant Martí,2,la Vila Olímpica del Poblenou,460.2,67,578,2021
+10,Nou. Milers d'euros,Sant Martí,2,el Poblenou,580.9,68,579,2021
+10,Nou. Milers d'euros,Sant Martí,2,Diagonal Mar i el Front Marítim del Poblenou,--,69,580,2021
+10,Nou. Milers d'euros,Sant Martí,2,el Besòs i el Maresme,296.6,70,581,2021
+10,Nou. Milers d'euros,Sant Martí,2,Provençals del Poblenou,255.2,71,582,2021
+10,Nou. Milers d'euros,Sant Martí,2,Sant Martí de Provençals,--,72,583,2021
+10,Nou. Milers d'euros,Sant Martí,2,la Verneda i la Pau,--,73,584,2021
+1,Usat. Milers d'euros,Ciutat Vella,2,el Raval,250.3,1,585,2021
+1,Usat. Milers d'euros,Ciutat Vella,2,el Barri Gòtic,384.4,2,586,2021
+1,Usat. Milers d'euros,Ciutat Vella,2,la Barceloneta,176.3,3,587,2021
+1,Usat. Milers d'euros,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",246.1,4,588,2021
+2,Usat. Milers d'euros,Eixample,2,el Fort Pienc,356.5,5,589,2021
+2,Usat. Milers d'euros,Eixample,2,la Sagrada Família,315.6,6,590,2021
+2,Usat. Milers d'euros,Eixample,2,la Dreta de l'Eixample,534.9,7,591,2021
+2,Usat. Milers d'euros,Eixample,2,l'Antiga Esquerra de l'Eixample,474.3,8,592,2021
+2,Usat. Milers d'euros,Eixample,2,la Nova Esquerra de l'Eixample,364.9,9,593,2021
+2,Usat. Milers d'euros,Eixample,2,Sant Antoni,342.7,10,594,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,el Poble Sec,366.9,11,595,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,la Marina del Prat Vermell,145.4,12,596,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,la Marina de Port,271.7,13,597,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,la Font de la Guatlla,272.4,14,598,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,Hostafrancs,276.3,15,599,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,la Bordeta,204.1,16,600,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,Sants - Badal,205.4,17,601,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,2,Sants,287.7,18,602,2021
+4,Usat. Milers d'euros,Les Corts,2,les Corts,357.2,19,603,2021
+4,Usat. Milers d'euros,Les Corts,2,la Maternitat i Sant Ramon,375.0,20,604,2021
+4,Usat. Milers d'euros,Les Corts,2,Pedralbes,613.5,21,605,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,2,"Vallvidrera, el Tibidabo i les Planes",445.5,22,606,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,2,Sarrià,638.6,23,607,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,2,les Tres Torres,934.2,24,608,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,2,Sant Gervasi - la Bonanova,819.1,25,609,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,2,Sant Gervasi - Galvany,983.9,26,610,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,2,el Putxet i el Farró,427.3,27,611,2021
+6,Usat. Milers d'euros,Gràcia,2,Vallcarca i els Penitents,321.7,28,612,2021
+6,Usat. Milers d'euros,Gràcia,2,el Coll,234.0,29,613,2021
+6,Usat. Milers d'euros,Gràcia,2,la Salut,374.2,30,614,2021
+6,Usat. Milers d'euros,Gràcia,2,la Vila de Gràcia,341.8,31,615,2021
+6,Usat. Milers d'euros,Gràcia,2,el Camp d'en Grassot i Gràcia Nova,300.1,32,616,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,el Baix Guinardó,233.8,33,617,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,Can Baró,263.3,34,618,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,el Guinardó,219.7,35,619,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,la Font d'en Fargues,305.4,36,620,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,el Carmel,141.6,37,621,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,la Teixonera,157.3,38,622,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,Sant Genís dels Agudells,228.1,39,623,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,Montbau,195.7,40,624,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,la Vall d'Hebron,319.0,41,625,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,la Clota,--,42,626,2021
+7,Usat. Milers d'euros,Horta-Guinardó,2,Horta,189.9,43,627,2021
+8,Usat. Milers d'euros,Nou Barris,2,Vilapicina i la Torre Llobeta,209.8,44,628,2021
+8,Usat. Milers d'euros,Nou Barris,2,Porta,175.1,45,629,2021
+8,Usat. Milers d'euros,Nou Barris,2,el Turó de la Peira,144.9,46,630,2021
+8,Usat. Milers d'euros,Nou Barris,2,Can Peguera,--,47,631,2021
+8,Usat. Milers d'euros,Nou Barris,2,la Guineueta,176.6,48,632,2021
+8,Usat. Milers d'euros,Nou Barris,2,Canyelles,183.3,49,633,2021
+8,Usat. Milers d'euros,Nou Barris,2,les Roquetes,97.6,50,634,2021
+8,Usat. Milers d'euros,Nou Barris,2,Verdun,151.5,51,635,2021
+8,Usat. Milers d'euros,Nou Barris,2,la Prosperitat,138.3,52,636,2021
+8,Usat. Milers d'euros,Nou Barris,2,la Trinitat Nova,110.8,53,637,2021
+8,Usat. Milers d'euros,Nou Barris,2,Ciutat Meridiana,65.9,55,639,2021
+8,Usat. Milers d'euros,Nou Barris,2,Vallbona,--,56,640,2021
+9,Usat. Milers d'euros,Sant Andreu,2,la Trinitat Vella,108.3,57,641,2021
+9,Usat. Milers d'euros,Sant Andreu,2,Baró de Viver,--,58,642,2021
+9,Usat. Milers d'euros,Sant Andreu,2,el Bon Pastor,162.3,59,643,2021
+9,Usat. Milers d'euros,Sant Andreu,2,Sant Andreu,333.8,60,644,2021
+9,Usat. Milers d'euros,Sant Andreu,2,la Sagrera,248.9,61,645,2021
+9,Usat. Milers d'euros,Sant Andreu,2,el Congrés i els Indians,324.3,62,646,2021
+9,Usat. Milers d'euros,Sant Andreu,2,Navas,266.2,63,647,2021
+10,Usat. Milers d'euros,Sant Martí,2,el Camp de l'Arpa del Clot,226.3,64,648,2021
+10,Usat. Milers d'euros,Sant Martí,2,el Clot,262.9,65,649,2021
+10,Usat. Milers d'euros,Sant Martí,2,el Parc i la Llacuna del Poblenou,301.1,66,650,2021
+10,Usat. Milers d'euros,Sant Martí,2,la Vila Olímpica del Poblenou,227.2,67,651,2021
+10,Usat. Milers d'euros,Sant Martí,2,el Poblenou,312.9,68,652,2021
+10,Usat. Milers d'euros,Sant Martí,2,Diagonal Mar i el Front Marítim del Poblenou,446.1,69,653,2021
+10,Usat. Milers d'euros,Sant Martí,2,el Besòs i el Maresme,187.6,70,654,2021
+10,Usat. Milers d'euros,Sant Martí,2,Provençals del Poblenou,224.9,71,655,2021
+10,Usat. Milers d'euros,Sant Martí,2,Sant Martí de Provençals,183.0,72,656,2021
+10,Usat. Milers d'euros,Sant Martí,2,la Verneda i la Pau,163.7,73,657,2021
+1,Total. Euros/m2 construït,Ciutat Vella,2,el Raval,3358.0,1,658,2021
+1,Total. Euros/m2 construït,Ciutat Vella,2,el Barri Gòtic,4513.6,2,659,2021
+1,Total. Euros/m2 construït,Ciutat Vella,2,la Barceloneta,4266.9,3,660,2021
+1,Total. Euros/m2 construït,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",3818.8,4,661,2021
+2,Total. Euros/m2 construït,Eixample,2,el Fort Pienc,4230.6,5,662,2021
+2,Total. Euros/m2 construït,Eixample,2,la Sagrada Família,4111.7,6,663,2021
+2,Total. Euros/m2 construït,Eixample,2,la Dreta de l'Eixample,4718.2,7,664,2021
+2,Total. Euros/m2 construït,Eixample,2,l'Antiga Esquerra de l'Eixample,4668.3,8,665,2021
+2,Total. Euros/m2 construït,Eixample,2,la Nova Esquerra de l'Eixample,4472.7,9,666,2021
+2,Total. Euros/m2 construït,Eixample,2,Sant Antoni,4185.1,10,667,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,el Poble Sec,5357.8,11,668,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,la Marina del Prat Vermell,2025.8,12,669,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,la Marina de Port,3759.2,13,670,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,la Font de la Guatlla,3374.0,14,671,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,Hostafrancs,4662.5,15,672,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,la Bordeta,3217.9,16,673,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,Sants - Badal,3211.1,17,674,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,2,Sants,3766.9,18,675,2021
+4,Total. Euros/m2 construït,Les Corts,2,les Corts,4140.1,19,676,2021
+4,Total. Euros/m2 construït,Les Corts,2,la Maternitat i Sant Ramon,4039.3,20,677,2021
+4,Total. Euros/m2 construït,Les Corts,2,Pedralbes,5449.0,21,678,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,2,"Vallvidrera, el Tibidabo i les Planes",2515.5,22,679,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sarrià,5930.7,23,680,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,2,les Tres Torres,5907.5,24,681,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sant Gervasi - la Bonanova,6455.1,25,682,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sant Gervasi - Galvany,7295.3,26,683,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,2,el Putxet i el Farró,5187.4,27,684,2021
+6,Total. Euros/m2 construït,Gràcia,2,Vallcarca i els Penitents,4124.6,28,685,2021
+6,Total. Euros/m2 construït,Gràcia,2,el Coll,3562.5,29,686,2021
+6,Total. Euros/m2 construït,Gràcia,2,la Salut,4148.5,30,687,2021
+6,Total. Euros/m2 construït,Gràcia,2,la Vila de Gràcia,4324.4,31,688,2021
+6,Total. Euros/m2 construït,Gràcia,2,el Camp d'en Grassot i Gràcia Nova,4208.8,32,689,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,el Baix Guinardó,3581.2,33,690,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,Can Baró,3589.7,34,691,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,el Guinardó,3306.6,35,692,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,la Font d'en Fargues,3540.4,36,693,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,el Carmel,2190.9,37,694,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,la Teixonera,2474.4,38,695,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,Sant Genís dels Agudells,2296.4,39,696,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,Montbau,2920.7,40,697,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,la Vall d'Hebron,4233.2,41,698,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,la Clota,--,42,699,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,2,Horta,3063.4,43,700,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Vilapicina i la Torre Llobeta,3513.0,44,701,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Porta,2919.6,45,702,2021
+8,Total. Euros/m2 construït,Nou Barris,2,el Turó de la Peira,2160.7,46,703,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Can Peguera,--,47,704,2021
+8,Total. Euros/m2 construït,Nou Barris,2,la Guineueta,2408.3,48,705,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Canyelles,2676.6,49,706,2021
+8,Total. Euros/m2 construït,Nou Barris,2,les Roquetes,1904.1,50,707,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Verdun,2420.2,51,708,2021
+8,Total. Euros/m2 construït,Nou Barris,2,la Prosperitat,2423.4,52,709,2021
+8,Total. Euros/m2 construït,Nou Barris,2,la Trinitat Nova,2330.5,53,710,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Torre Baró,--,54,711,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Ciutat Meridiana,1193.3,55,712,2021
+8,Total. Euros/m2 construït,Nou Barris,2,Vallbona,--,56,713,2021
+9,Total. Euros/m2 construït,Sant Andreu,2,la Trinitat Vella,2238.6,57,714,2021
+9,Total. Euros/m2 construït,Sant Andreu,2,Baró de Viver,--,58,715,2021
+9,Total. Euros/m2 construït,Sant Andreu,2,el Bon Pastor,2223.2,59,716,2021
+9,Total. Euros/m2 construït,Sant Andreu,2,Sant Andreu,3984.1,60,717,2021
+9,Total. Euros/m2 construït,Sant Andreu,2,la Sagrera,3442.2,61,718,2021
+9,Total. Euros/m2 construït,Sant Andreu,2,el Congrés i els Indians,3582.7,62,719,2021
+9,Total. Euros/m2 construït,Sant Andreu,2,Navas,3317.4,63,720,2021
+10,Total. Euros/m2 construït,Sant Martí,2,el Camp de l'Arpa del Clot,3275.2,64,721,2021
+10,Total. Euros/m2 construït,Sant Martí,2,el Clot,3950.4,65,722,2021
+10,Total. Euros/m2 construït,Sant Martí,2,el Parc i la Llacuna del Poblenou,4129.3,66,723,2021
+10,Total. Euros/m2 construït,Sant Martí,2,la Vila Olímpica del Poblenou,4244.7,67,724,2021
+10,Total. Euros/m2 construït,Sant Martí,2,el Poblenou,4847.9,68,725,2021
+10,Total. Euros/m2 construït,Sant Martí,2,Diagonal Mar i el Front Marítim del Poblenou,4509.1,69,726,2021
+10,Total. Euros/m2 construït,Sant Martí,2,el Besòs i el Maresme,2832.3,70,727,2021
+10,Total. Euros/m2 construït,Sant Martí,2,Provençals del Poblenou,3388.0,71,728,2021
+10,Total. Euros/m2 construït,Sant Martí,2,Sant Martí de Provençals,2690.5,72,729,2021
+10,Total. Euros/m2 construït,Sant Martí,2,la Verneda i la Pau,2290.9,73,730,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,2,el Raval,--,1,731,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,2,el Barri Gòtic,4351.2,2,732,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,2,la Barceloneta,--,3,733,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",5949.3,4,734,2021
+2,Nou. Euros/m2 construït,Eixample,2,el Fort Pienc,--,5,735,2021
+2,Nou. Euros/m2 construït,Eixample,2,la Sagrada Família,3096.5,6,736,2021
+2,Nou. Euros/m2 construït,Eixample,2,la Dreta de l'Eixample,5550.5,7,737,2021
+2,Nou. Euros/m2 construït,Eixample,2,l'Antiga Esquerra de l'Eixample,--,8,738,2021
+2,Nou. Euros/m2 construït,Eixample,2,la Nova Esquerra de l'Eixample,4871.6,9,739,2021
+2,Nou. Euros/m2 construït,Eixample,2,Sant Antoni,--,10,740,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,el Poble Sec,--,11,741,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,la Marina del Prat Vermell,--,12,742,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,la Marina de Port,--,13,743,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,la Font de la Guatlla,--,14,744,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,Hostafrancs,5277.9,15,745,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,la Bordeta,3595.1,16,746,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,Sants - Badal,3177.1,17,747,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,2,Sants,3350.6,18,748,2021
+4,Nou. Euros/m2 construït,Les Corts,2,les Corts,5667.0,19,749,2021
+4,Nou. Euros/m2 construït,Les Corts,2,la Maternitat i Sant Ramon,--,20,750,2021
+4,Nou. Euros/m2 construït,Les Corts,2,Pedralbes,5948.3,21,751,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,2,"Vallvidrera, el Tibidabo i les Planes",1536.0,22,752,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sarrià,--,23,753,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,2,les Tres Torres,--,24,754,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sant Gervasi - la Bonanova,6575.4,25,755,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sant Gervasi - Galvany,7726.3,26,756,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,2,el Putxet i el Farró,8219.2,27,757,2021
+6,Nou. Euros/m2 construït,Gràcia,2,Vallcarca i els Penitents,3919.8,28,758,2021
+6,Nou. Euros/m2 construït,Gràcia,2,el Coll,3442.5,29,759,2021
+6,Nou. Euros/m2 construït,Gràcia,2,la Salut,--,30,760,2021
+6,Nou. Euros/m2 construït,Gràcia,2,la Vila de Gràcia,--,31,761,2021
+6,Nou. Euros/m2 construït,Gràcia,2,el Camp d'en Grassot i Gràcia Nova,--,32,762,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,el Baix Guinardó,--,33,763,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,Can Baró,--,34,764,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,el Guinardó,3033.0,35,765,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,la Font d'en Fargues,--,36,766,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,el Carmel,2000.9,37,767,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,la Teixonera,2658.6,38,768,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,Sant Genís dels Agudells,--,39,769,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,Montbau,--,40,770,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,la Vall d'Hebron,--,41,771,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,la Clota,--,42,772,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,2,Horta,2736.8,43,773,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Vilapicina i la Torre Llobeta,4399.5,44,774,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,el Turó de la Peira,--,46,776,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Can Peguera,--,47,777,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,la Guineueta,--,48,778,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Canyelles,--,49,779,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,les Roquetes,--,50,780,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Verdun,--,51,781,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,la Prosperitat,--,52,782,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,la Trinitat Nova,--,53,783,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Torre Baró,--,54,784,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Ciutat Meridiana,--,55,785,2021
+8,Nou. Euros/m2 construït,Nou Barris,2,Vallbona,--,56,786,2021
+9,Nou. Euros/m2 construït,Sant Andreu,2,la Trinitat Vella,--,57,787,2021
+9,Nou. Euros/m2 construït,Sant Andreu,2,Baró de Viver,--,58,788,2021
+9,Nou. Euros/m2 construït,Sant Andreu,2,el Bon Pastor,--,59,789,2021
+9,Nou. Euros/m2 construït,Sant Andreu,2,Sant Andreu,4469.9,60,790,2021
+9,Nou. Euros/m2 construït,Sant Andreu,2,la Sagrera,--,61,791,2021
+9,Nou. Euros/m2 construït,Sant Andreu,2,el Congrés i els Indians,--,62,792,2021
+9,Nou. Euros/m2 construït,Sant Andreu,2,Navas,--,63,793,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,el Camp de l'Arpa del Clot,--,64,794,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,el Clot,--,65,795,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,el Parc i la Llacuna del Poblenou,--,66,796,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,la Vila Olímpica del Poblenou,6441.4,67,797,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,el Poblenou,6816.3,68,798,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,Diagonal Mar i el Front Marítim del Poblenou,--,69,799,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,el Besòs i el Maresme,3910.2,70,800,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,Provençals del Poblenou,3667.3,71,801,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,Sant Martí de Provençals,--,72,802,2021
+10,Nou. Euros/m2 construït,Sant Martí,2,la Verneda i la Pau,--,73,803,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,2,el Raval,3343.2,1,804,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,2,el Barri Gòtic,4554.2,2,805,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,2,la Barceloneta,4276.2,3,806,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,2,"Sant Pere, Santa Caterina i la Ribera",3753.3,4,807,2021
+2,Usat. Euros/m2 construït,Eixample,2,el Fort Pienc,4230.6,5,808,2021
+2,Usat. Euros/m2 construït,Eixample,2,la Sagrada Família,4166.5,6,809,2021
+2,Usat. Euros/m2 construït,Eixample,2,la Dreta de l'Eixample,4655.0,7,810,2021
+2,Usat. Euros/m2 construït,Eixample,2,l'Antiga Esquerra de l'Eixample,4665.0,8,811,2021
+2,Usat. Euros/m2 construït,Eixample,2,la Nova Esquerra de l'Eixample,4370.1,9,812,2021
+2,Usat. Euros/m2 construït,Eixample,2,Sant Antoni,4185.1,10,813,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,el Poble Sec,5541.1,11,814,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,la Marina del Prat Vermell,2025.8,12,815,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,la Marina de Port,3759.2,13,816,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,la Font de la Guatlla,3430.9,14,817,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,Hostafrancs,4406.1,15,818,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,la Bordeta,2935.0,16,819,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,Sants - Badal,3219.6,17,820,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,2,Sants,3825.0,18,821,2021
+4,Usat. Euros/m2 construït,Les Corts,2,les Corts,4041.6,19,822,2021
+4,Usat. Euros/m2 construït,Les Corts,2,la Maternitat i Sant Ramon,4027.5,20,823,2021
+4,Usat. Euros/m2 construït,Les Corts,2,Pedralbes,5382.4,21,824,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,2,"Vallvidrera, el Tibidabo i les Planes",3250.1,22,825,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sarrià,5930.7,23,826,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,2,les Tres Torres,5573.2,24,827,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sant Gervasi - la Bonanova,6429.4,25,828,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,2,Sant Gervasi - Galvany,7218.5,26,829,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,2,el Putxet i el Farró,4921.4,27,830,2021
+6,Usat. Euros/m2 construït,Gràcia,2,Vallcarca i els Penitents,4175.8,28,831,2021
+6,Usat. Euros/m2 construït,Gràcia,2,el Coll,3802.4,29,832,2021
+6,Usat. Euros/m2 construït,Gràcia,2,la Salut,4148.5,30,833,2021
+6,Usat. Euros/m2 construït,Gràcia,2,la Vila de Gràcia,4298.4,31,834,2021
+6,Usat. Euros/m2 construït,Gràcia,2,el Camp d'en Grassot i Gràcia Nova,4208.8,32,835,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,el Baix Guinardó,3581.2,33,836,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,Can Baró,3589.7,34,837,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,el Guinardó,3403.7,35,838,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,la Font d'en Fargues,3540.4,36,839,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,el Carmel,2237.0,37,840,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,la Teixonera,2345.4,38,841,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,Sant Genís dels Agudells,2336.4,39,842,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,Montbau,2894.6,40,843,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,la Vall d'Hebron,4079.8,41,844,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,la Clota,--,42,845,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,2,Horta,3172.3,43,846,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Vilapicina i la Torre Llobeta,2936.7,44,847,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Porta,2919.6,45,848,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,el Turó de la Peira,2160.7,46,849,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Can Peguera,--,47,850,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,la Guineueta,2408.3,48,851,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Canyelles,2676.6,49,852,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,les Roquetes,1904.1,50,853,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Verdun,2276.3,51,854,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,la Prosperitat,2423.4,52,855,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,la Trinitat Nova,2330.5,53,856,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Torre Baró,--,54,857,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Ciutat Meridiana,1193.3,55,858,2021
+8,Usat. Euros/m2 construït,Nou Barris,2,Vallbona,--,56,859,2021
+9,Usat. Euros/m2 construït,Sant Andreu,2,la Trinitat Vella,2238.6,57,860,2021
+9,Usat. Euros/m2 construït,Sant Andreu,2,Baró de Viver,--,58,861,2021
+9,Usat. Euros/m2 construït,Sant Andreu,2,el Bon Pastor,2223.2,59,862,2021
+9,Usat. Euros/m2 construït,Sant Andreu,2,Sant Andreu,3761.5,60,863,2021
+9,Usat. Euros/m2 construït,Sant Andreu,2,la Sagrera,3442.2,61,864,2021
+9,Usat. Euros/m2 construït,Sant Andreu,2,el Congrés i els Indians,3582.7,62,865,2021
+9,Usat. Euros/m2 construït,Sant Andreu,2,Navas,3317.4,63,866,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,el Camp de l'Arpa del Clot,3275.2,64,867,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,el Clot,3950.4,65,868,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,el Parc i la Llacuna del Poblenou,4063.1,66,869,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,la Vila Olímpica del Poblenou,3335.7,67,870,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,el Poblenou,4285.5,68,871,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,Diagonal Mar i el Front Marítim del Poblenou,4548.4,69,872,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,el Besòs i el Maresme,2668.3,70,873,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,Provençals del Poblenou,3182.3,71,874,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,Sant Martí de Provençals,2690.5,72,875,2021
+10,Usat. Euros/m2 construït,Sant Martí,2,la Verneda i la Pau,2290.9,73,876,2021
+1,Total. Milers d'euros,Ciutat Vella,3,el Raval,171.0,1,877,2021
+1,Total. Milers d'euros,Ciutat Vella,3,el Barri Gòtic,356.1,2,878,2021
+1,Total. Milers d'euros,Ciutat Vella,3,la Barceloneta,236.2,3,879,2021
+1,Total. Milers d'euros,Ciutat Vella,3,"Sant Pere, Santa Caterina i la Ribera",326.4,4,880,2021
+2,Total. Milers d'euros,Eixample,3,el Fort Pienc,328.6,5,881,2021
+2,Total. Milers d'euros,Eixample,3,la Sagrada Família,294.8,6,882,2021
+2,Total. Milers d'euros,Eixample,3,la Dreta de l'Eixample,773.2,7,883,2021
+2,Total. Milers d'euros,Eixample,3,l'Antiga Esquerra de l'Eixample,487.8,8,884,2021
+2,Total. Milers d'euros,Eixample,3,la Nova Esquerra de l'Eixample,360.9,9,885,2021
+2,Total. Milers d'euros,Eixample,3,Sant Antoni,521.2,10,886,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,el Poble Sec,307.8,11,887,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,la Marina del Prat Vermell,228.0,12,888,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,la Marina de Port,264.2,13,889,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,la Font de la Guatlla,273.0,14,890,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,Hostafrancs,262.7,15,891,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,la Bordeta,260.9,16,892,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,Sants - Badal,206.5,17,893,2021
+3,Total. Milers d'euros,Sants-Montjuïc,3,Sants,252.5,18,894,2021
+4,Total. Milers d'euros,Les Corts,3,les Corts,420.5,19,895,2021
+4,Total. Milers d'euros,Les Corts,3,la Maternitat i Sant Ramon,420.0,20,896,2021
+4,Total. Milers d'euros,Les Corts,3,Pedralbes,1055.2,21,897,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,3,"Vallvidrera, el Tibidabo i les Planes",550.0,22,898,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,3,Sarrià,827.3,23,899,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,3,les Tres Torres,899.4,24,900,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,3,Sant Gervasi - la Bonanova,940.4,25,901,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,3,Sant Gervasi - Galvany,847.3,26,902,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,3,el Putxet i el Farró,408.3,27,903,2021
+6,Total. Milers d'euros,Gràcia,3,Vallcarca i els Penitents,375.4,28,904,2021
+6,Total. Milers d'euros,Gràcia,3,el Coll,237.4,29,905,2021
+6,Total. Milers d'euros,Gràcia,3,la Salut,349.7,30,906,2021
+6,Total. Milers d'euros,Gràcia,3,la Vila de Gràcia,337.7,31,907,2021
+6,Total. Milers d'euros,Gràcia,3,el Camp d'en Grassot i Gràcia Nova,334.2,32,908,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,el Baix Guinardó,298.0,33,909,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,Can Baró,318.8,34,910,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,el Guinardó,266.2,35,911,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,la Font d'en Fargues,297.1,36,912,2021
+8,Nou. Milers d'euros,Nou Barris,3,la Guineueta,--,48,997,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,el Carmel,135.0,37,913,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,la Teixonera,128.1,38,914,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,Sant Genís dels Agudells,182.6,39,915,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,Montbau,138.4,40,916,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,la Vall d'Hebron,205.7,41,917,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,la Clota,--,42,918,2021
+7,Total. Milers d'euros,Horta-Guinardó,3,Horta,203.1,43,919,2021
+8,Total. Milers d'euros,Nou Barris,3,Vilapicina i la Torre Llobeta,205.9,44,920,2021
+8,Total. Milers d'euros,Nou Barris,3,Porta,173.1,45,921,2021
+8,Total. Milers d'euros,Nou Barris,3,el Turó de la Peira,196.5,46,922,2021
+8,Total. Milers d'euros,Nou Barris,3,Can Peguera,--,47,923,2021
+8,Total. Milers d'euros,Nou Barris,3,la Guineueta,216.9,48,924,2021
+8,Total. Milers d'euros,Nou Barris,3,Canyelles,131.8,49,925,2021
+8,Total. Milers d'euros,Nou Barris,3,les Roquetes,105.0,50,926,2021
+8,Total. Milers d'euros,Nou Barris,3,Verdun,165.0,51,927,2021
+8,Total. Milers d'euros,Nou Barris,3,la Prosperitat,197.1,52,928,2021
+8,Total. Milers d'euros,Nou Barris,3,la Trinitat Nova,86.3,53,929,2021
+8,Total. Milers d'euros,Nou Barris,3,Torre Baró,--,54,930,2021
+8,Total. Milers d'euros,Nou Barris,3,Ciutat Meridiana,94.0,55,931,2021
+8,Total. Milers d'euros,Nou Barris,3,Vallbona,--,56,932,2021
+9,Total. Milers d'euros,Sant Andreu,3,la Trinitat Vella,126.2,57,933,2021
+9,Total. Milers d'euros,Sant Andreu,3,Baró de Viver,--,58,934,2021
+9,Total. Milers d'euros,Sant Andreu,3,el Bon Pastor,145.9,59,935,2021
+9,Total. Milers d'euros,Sant Andreu,3,Sant Andreu,353.6,60,936,2021
+9,Total. Milers d'euros,Sant Andreu,3,la Sagrera,202.3,61,937,2021
+9,Total. Milers d'euros,Sant Andreu,3,el Congrés i els Indians,271.5,62,938,2021
+9,Total. Milers d'euros,Sant Andreu,3,Navas,256.1,63,939,2021
+10,Total. Milers d'euros,Sant Martí,3,el Camp de l'Arpa del Clot,260.0,64,940,2021
+8,Nou. Milers d'euros,Nou Barris,3,Canyelles,--,49,998,2021
+10,Total. Milers d'euros,Sant Martí,3,el Clot,259.9,65,941,2021
+10,Total. Milers d'euros,Sant Martí,3,el Parc i la Llacuna del Poblenou,430.3,66,942,2021
+10,Total. Milers d'euros,Sant Martí,3,la Vila Olímpica del Poblenou,526.8,67,943,2021
+10,Total. Milers d'euros,Sant Martí,3,el Poblenou,367.8,68,944,2021
+10,Total. Milers d'euros,Sant Martí,3,Diagonal Mar i el Front Marítim del Poblenou,437.4,69,945,2021
+10,Total. Milers d'euros,Sant Martí,3,el Besòs i el Maresme,232.7,70,946,2021
+10,Total. Milers d'euros,Sant Martí,3,Provençals del Poblenou,242.1,71,947,2021
+10,Total. Milers d'euros,Sant Martí,3,Sant Martí de Provençals,175.5,72,948,2021
+10,Total. Milers d'euros,Sant Martí,3,la Verneda i la Pau,168.9,73,949,2021
+1,Nou. Milers d'euros,Ciutat Vella,3,el Raval,--,1,950,2021
+1,Nou. Milers d'euros,Ciutat Vella,3,el Barri Gòtic,--,2,951,2021
+1,Nou. Milers d'euros,Ciutat Vella,3,la Barceloneta,104.5,3,952,2021
+1,Nou. Milers d'euros,Ciutat Vella,3,"Sant Pere, Santa Caterina i la Ribera",542.5,4,953,2021
+2,Nou. Milers d'euros,Eixample,3,el Fort Pienc,--,5,954,2021
+2,Nou. Milers d'euros,Eixample,3,la Sagrada Família,286.0,6,955,2021
+2,Nou. Milers d'euros,Eixample,3,la Dreta de l'Eixample,1092.5,7,956,2021
+2,Nou. Milers d'euros,Eixample,3,l'Antiga Esquerra de l'Eixample,573.0,8,957,2021
+2,Nou. Milers d'euros,Eixample,3,la Nova Esquerra de l'Eixample,318.8,9,958,2021
+2,Nou. Milers d'euros,Eixample,3,Sant Antoni,--,10,959,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,el Poble Sec,--,11,960,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,la Marina del Prat Vermell,--,12,961,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,la Marina de Port,--,13,962,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,la Font de la Guatlla,350.8,14,963,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,Hostafrancs,278.6,15,964,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,la Bordeta,--,16,965,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,Sants - Badal,--,17,966,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,3,Sants,251.0,18,967,2021
+4,Nou. Milers d'euros,Les Corts,3,les Corts,530.6,19,968,2021
+4,Nou. Milers d'euros,Les Corts,3,la Maternitat i Sant Ramon,--,20,969,2021
+4,Nou. Milers d'euros,Les Corts,3,Pedralbes,544.3,21,970,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,3,"Vallvidrera, el Tibidabo i les Planes",--,22,971,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,3,Sarrià,710.0,23,972,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,3,les Tres Torres,--,24,973,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,3,Sant Gervasi - la Bonanova,933.6,25,974,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,3,Sant Gervasi - Galvany,603.9,26,975,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,3,el Putxet i el Farró,470.0,27,976,2021
+6,Nou. Milers d'euros,Gràcia,3,Vallcarca i els Penitents,377.6,28,977,2021
+6,Nou. Milers d'euros,Gràcia,3,el Coll,283.1,29,978,2021
+6,Nou. Milers d'euros,Gràcia,3,la Salut,--,30,979,2021
+6,Nou. Milers d'euros,Gràcia,3,la Vila de Gràcia,--,31,980,2021
+6,Nou. Milers d'euros,Gràcia,3,el Camp d'en Grassot i Gràcia Nova,--,32,981,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,el Baix Guinardó,--,33,982,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,Can Baró,--,34,983,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,el Guinardó,368.4,35,984,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,la Font d'en Fargues,--,36,985,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,el Carmel,109.5,37,986,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,la Teixonera,69.3,38,987,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,Sant Genís dels Agudells,154.2,39,988,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,Montbau,155.0,40,989,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,la Vall d'Hebron,--,41,990,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,la Clota,--,42,991,2021
+7,Nou. Milers d'euros,Horta-Guinardó,3,Horta,250.2,43,992,2021
+8,Nou. Milers d'euros,Nou Barris,3,Vilapicina i la Torre Llobeta,255.0,44,993,2021
+8,Nou. Milers d'euros,Nou Barris,3,Porta,--,45,994,2021
+8,Nou. Milers d'euros,Nou Barris,3,el Turó de la Peira,--,46,995,2021
+8,Nou. Milers d'euros,Nou Barris,3,Can Peguera,--,47,996,2021
+8,Nou. Milers d'euros,Nou Barris,3,les Roquetes,--,50,999,2021
+8,Nou. Milers d'euros,Nou Barris,3,Verdun,206.2,51,1000,2021
+8,Nou. Milers d'euros,Nou Barris,3,la Prosperitat,--,52,1001,2021
+8,Nou. Milers d'euros,Nou Barris,3,la Trinitat Nova,--,53,1002,2021
+8,Nou. Milers d'euros,Nou Barris,3,Torre Baró,--,54,1003,2021
+8,Nou. Milers d'euros,Nou Barris,3,Ciutat Meridiana,--,55,1004,2021
+8,Nou. Milers d'euros,Nou Barris,3,Vallbona,--,56,1005,2021
+9,Nou. Milers d'euros,Sant Andreu,3,la Trinitat Vella,--,57,1006,2021
+9,Nou. Milers d'euros,Sant Andreu,3,Baró de Viver,--,58,1007,2021
+9,Nou. Milers d'euros,Sant Andreu,3,el Bon Pastor,--,59,1008,2021
+9,Nou. Milers d'euros,Sant Andreu,3,Sant Andreu,366.8,60,1009,2021
+9,Nou. Milers d'euros,Sant Andreu,3,la Sagrera,--,61,1010,2021
+9,Nou. Milers d'euros,Sant Andreu,3,el Congrés i els Indians,292.0,62,1011,2021
+9,Nou. Milers d'euros,Sant Andreu,3,Navas,--,63,1012,2021
+10,Nou. Milers d'euros,Sant Martí,3,el Camp de l'Arpa del Clot,--,64,1013,2021
+10,Nou. Milers d'euros,Sant Martí,3,el Clot,--,65,1014,2021
+10,Nou. Milers d'euros,Sant Martí,3,el Parc i la Llacuna del Poblenou,486.1,66,1015,2021
+10,Nou. Milers d'euros,Sant Martí,3,la Vila Olímpica del Poblenou,418.8,67,1016,2021
+10,Nou. Milers d'euros,Sant Martí,3,el Poblenou,493.6,68,1017,2021
+10,Nou. Milers d'euros,Sant Martí,3,Diagonal Mar i el Front Marítim del Poblenou,--,69,1018,2021
+10,Nou. Milers d'euros,Sant Martí,3,el Besòs i el Maresme,395.4,70,1019,2021
+10,Nou. Milers d'euros,Sant Martí,3,Provençals del Poblenou,219.0,71,1020,2021
+10,Nou. Milers d'euros,Sant Martí,3,Sant Martí de Provençals,--,72,1021,2021
+10,Nou. Milers d'euros,Sant Martí,3,la Verneda i la Pau,--,73,1022,2021
+1,Usat. Milers d'euros,Ciutat Vella,3,el Raval,168.9,1,1023,2021
+1,Usat. Milers d'euros,Ciutat Vella,3,el Barri Gòtic,359.5,2,1024,2021
+1,Usat. Milers d'euros,Ciutat Vella,3,la Barceloneta,248.2,3,1025,2021
+1,Usat. Milers d'euros,Ciutat Vella,3,"Sant Pere, Santa Caterina i la Ribera",315.1,4,1026,2021
+2,Usat. Milers d'euros,Eixample,3,el Fort Pienc,332.3,5,1027,2021
+2,Usat. Milers d'euros,Eixample,3,la Sagrada Família,295.3,6,1028,2021
+2,Usat. Milers d'euros,Eixample,3,la Dreta de l'Eixample,756.2,7,1029,2021
+2,Usat. Milers d'euros,Eixample,3,l'Antiga Esquerra de l'Eixample,471.6,8,1030,2021
+2,Usat. Milers d'euros,Eixample,3,la Nova Esquerra de l'Eixample,374.9,9,1031,2021
+2,Usat. Milers d'euros,Eixample,3,Sant Antoni,520.8,10,1032,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,el Poble Sec,307.5,11,1033,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,la Marina del Prat Vermell,228.0,12,1034,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,la Marina de Port,264.2,13,1035,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,la Font de la Guatlla,254.7,14,1036,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,Hostafrancs,260.2,15,1037,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,la Bordeta,241.3,16,1038,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,Sants - Badal,206.7,17,1039,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,3,Sants,252.6,18,1040,2021
+4,Usat. Milers d'euros,Les Corts,3,les Corts,398.8,19,1041,2021
+4,Usat. Milers d'euros,Les Corts,3,la Maternitat i Sant Ramon,420.0,20,1042,2021
+4,Usat. Milers d'euros,Les Corts,3,Pedralbes,1145.4,21,1043,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,3,"Vallvidrera, el Tibidabo i les Planes",615.0,22,1044,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,3,Sarrià,833.8,23,1045,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,3,les Tres Torres,929.3,24,1046,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,3,Sant Gervasi - la Bonanova,941.9,25,1047,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,3,Sant Gervasi - Galvany,878.8,26,1048,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,3,el Putxet i el Farró,403.2,27,1049,2021
+6,Usat. Milers d'euros,Gràcia,3,Vallcarca i els Penitents,374.4,28,1050,2021
+6,Usat. Milers d'euros,Gràcia,3,el Coll,219.2,29,1051,2021
+6,Usat. Milers d'euros,Gràcia,3,la Salut,352.8,30,1052,2021
+6,Usat. Milers d'euros,Gràcia,3,la Vila de Gràcia,338.0,31,1053,2021
+6,Usat. Milers d'euros,Gràcia,3,el Camp d'en Grassot i Gràcia Nova,336.3,32,1054,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,el Baix Guinardó,298.0,33,1055,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,Can Baró,318.8,34,1056,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,el Guinardó,230.5,35,1057,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,la Font d'en Fargues,304.5,36,1058,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,el Carmel,151.6,37,1059,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,la Teixonera,211.2,38,1060,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,Sant Genís dels Agudells,202.9,39,1061,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,Montbau,133.6,40,1062,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,la Vall d'Hebron,205.7,41,1063,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,la Clota,--,42,1064,2021
+7,Usat. Milers d'euros,Horta-Guinardó,3,Horta,191.9,43,1065,2021
+8,Usat. Milers d'euros,Nou Barris,3,Vilapicina i la Torre Llobeta,202.2,44,1066,2021
+8,Usat. Milers d'euros,Nou Barris,3,Porta,174.7,45,1067,2021
+8,Usat. Milers d'euros,Nou Barris,3,el Turó de la Peira,196.5,46,1068,2021
+8,Usat. Milers d'euros,Nou Barris,3,Can Peguera,--,47,1069,2021
+8,Usat. Milers d'euros,Nou Barris,3,la Guineueta,216.9,48,1070,2021
+8,Usat. Milers d'euros,Nou Barris,3,Canyelles,131.8,49,1071,2021
+8,Usat. Milers d'euros,Nou Barris,3,les Roquetes,105.0,50,1072,2021
+8,Usat. Milers d'euros,Nou Barris,3,Verdun,147.4,51,1073,2021
+8,Usat. Milers d'euros,Nou Barris,3,la Prosperitat,200.2,52,1074,2021
+8,Usat. Milers d'euros,Nou Barris,3,la Trinitat Nova,86.3,53,1075,2021
+8,Usat. Milers d'euros,Nou Barris,3,Torre Baró,--,54,1076,2021
+8,Usat. Milers d'euros,Nou Barris,3,Ciutat Meridiana,94.0,55,1077,2021
+8,Usat. Milers d'euros,Nou Barris,3,Vallbona,--,56,1078,2021
+9,Usat. Milers d'euros,Sant Andreu,3,la Trinitat Vella,126.2,57,1079,2021
+9,Usat. Milers d'euros,Sant Andreu,3,Baró de Viver,--,58,1080,2021
+9,Usat. Milers d'euros,Sant Andreu,3,el Bon Pastor,145.9,59,1081,2021
+9,Usat. Milers d'euros,Sant Andreu,3,Sant Andreu,353.0,60,1082,2021
+9,Usat. Milers d'euros,Sant Andreu,3,la Sagrera,202.3,61,1083,2021
+9,Usat. Milers d'euros,Sant Andreu,3,el Congrés i els Indians,268.1,62,1084,2021
+9,Usat. Milers d'euros,Sant Andreu,3,Navas,256.1,63,1085,2021
+10,Usat. Milers d'euros,Sant Martí,3,el Camp de l'Arpa del Clot,260.0,64,1086,2021
+10,Usat. Milers d'euros,Sant Martí,3,el Clot,259.9,65,1087,2021
+10,Usat. Milers d'euros,Sant Martí,3,el Parc i la Llacuna del Poblenou,338.4,66,1088,2021
+10,Usat. Milers d'euros,Sant Martí,3,la Vila Olímpica del Poblenou,607.8,67,1089,2021
+10,Usat. Milers d'euros,Sant Martí,3,el Poblenou,334.8,68,1090,2021
+10,Usat. Milers d'euros,Sant Martí,3,Diagonal Mar i el Front Marítim del Poblenou,449.0,69,1091,2021
+10,Usat. Milers d'euros,Sant Martí,3,el Besòs i el Maresme,118.8,70,1092,2021
+10,Usat. Milers d'euros,Sant Martí,3,Provençals del Poblenou,245.9,71,1093,2021
+10,Usat. Milers d'euros,Sant Martí,3,Sant Martí de Provençals,175.5,72,1094,2021
+10,Usat. Milers d'euros,Sant Martí,3,la Verneda i la Pau,171.2,73,1095,2021
+1,Total. Euros/m2 construït,Ciutat Vella,3,el Raval,2817.8,1,1096,2021
+1,Total. Euros/m2 construït,Ciutat Vella,3,el Barri Gòtic,4582.8,2,1097,2021
+1,Total. Euros/m2 construït,Ciutat Vella,3,la Barceloneta,4543.2,3,1098,2021
+1,Total. Euros/m2 construït,Ciutat Vella,3,"Sant Pere, Santa Caterina i la Ribera",4297.1,4,1099,2021
+2,Total. Euros/m2 construït,Eixample,3,el Fort Pienc,4057.8,5,1100,2021
+2,Total. Euros/m2 construït,Eixample,3,la Sagrada Família,3944.9,6,1101,2021
+2,Total. Euros/m2 construït,Eixample,3,la Dreta de l'Eixample,5840.9,7,1102,2021
+2,Total. Euros/m2 construït,Eixample,3,l'Antiga Esquerra de l'Eixample,5447.1,8,1103,2021
+2,Total. Euros/m2 construït,Eixample,3,la Nova Esquerra de l'Eixample,4351.5,9,1104,2021
+2,Total. Euros/m2 construït,Eixample,3,Sant Antoni,5447.5,10,1105,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,el Poble Sec,4663.0,11,1106,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,la Marina del Prat Vermell,2783.5,12,1107,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,la Marina de Port,3453.7,13,1108,2021
+10,Total. Euros/m2 construït,Sant Martí,3,el Poblenou,4882.2,68,1163,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,la Font de la Guatlla,3680.6,14,1109,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,Hostafrancs,3645.2,15,1110,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,la Bordeta,3756.6,16,1111,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,Sants - Badal,3787.7,17,1112,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,3,Sants,3611.0,18,1113,2021
+4,Total. Euros/m2 construït,Les Corts,3,les Corts,4742.5,19,1114,2021
+4,Total. Euros/m2 construït,Les Corts,3,la Maternitat i Sant Ramon,4992.2,20,1115,2021
+4,Total. Euros/m2 construït,Les Corts,3,Pedralbes,6915.7,21,1116,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,3,"Vallvidrera, el Tibidabo i les Planes",3655.9,22,1117,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sarrià,6481.5,23,1118,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,3,les Tres Torres,6231.7,24,1119,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sant Gervasi - la Bonanova,7618.4,25,1120,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sant Gervasi - Galvany,6294.0,26,1121,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,3,el Putxet i el Farró,4683.9,27,1122,2021
+6,Total. Euros/m2 construït,Gràcia,3,Vallcarca i els Penitents,3929.1,28,1123,2021
+6,Total. Euros/m2 construït,Gràcia,3,el Coll,3129.9,29,1124,2021
+6,Total. Euros/m2 construït,Gràcia,3,la Salut,4140.0,30,1125,2021
+6,Total. Euros/m2 construït,Gràcia,3,la Vila de Gràcia,4203.3,31,1126,2021
+6,Total. Euros/m2 construït,Gràcia,3,el Camp d'en Grassot i Gràcia Nova,4416.2,32,1127,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,el Baix Guinardó,3878.5,33,1128,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,Can Baró,3247.7,34,1129,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,el Guinardó,3715.5,35,1130,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,la Font d'en Fargues,3672.4,36,1131,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,el Carmel,2287.5,37,1132,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,la Teixonera,2025.0,38,1133,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,Sant Genís dels Agudells,2718.6,39,1134,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,Montbau,2459.0,40,1135,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,la Vall d'Hebron,3495.6,41,1136,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,la Clota,--,42,1137,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,3,Horta,2706.5,43,1138,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Vilapicina i la Torre Llobeta,2865.4,44,1139,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Porta,2992.3,45,1140,2021
+8,Total. Euros/m2 construït,Nou Barris,3,el Turó de la Peira,2808.7,46,1141,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Can Peguera,--,47,1142,2021
+8,Total. Euros/m2 construït,Nou Barris,3,la Guineueta,2548.8,48,1143,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Canyelles,1894.1,49,1144,2021
+8,Total. Euros/m2 construït,Nou Barris,3,les Roquetes,1743.4,50,1145,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Verdun,2356.2,51,1146,2021
+8,Total. Euros/m2 construït,Nou Barris,3,la Prosperitat,2936.1,52,1147,2021
+8,Total. Euros/m2 construït,Nou Barris,3,la Trinitat Nova,1822.8,53,1148,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Torre Baró,--,54,1149,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Ciutat Meridiana,1485.3,55,1150,2021
+8,Total. Euros/m2 construït,Nou Barris,3,Vallbona,--,56,1151,2021
+9,Total. Euros/m2 construït,Sant Andreu,3,la Trinitat Vella,1926.1,57,1152,2021
+9,Total. Euros/m2 construït,Sant Andreu,3,Baró de Viver,--,58,1153,2021
+9,Total. Euros/m2 construït,Sant Andreu,3,el Bon Pastor,2227.8,59,1154,2021
+9,Total. Euros/m2 construït,Sant Andreu,3,Sant Andreu,3665.7,60,1155,2021
+9,Total. Euros/m2 construït,Sant Andreu,3,la Sagrera,3160.5,61,1156,2021
+9,Total. Euros/m2 construït,Sant Andreu,3,el Congrés i els Indians,3546.4,62,1157,2021
+9,Total. Euros/m2 construït,Sant Andreu,3,Navas,2991.0,63,1158,2021
+10,Total. Euros/m2 construït,Sant Martí,3,el Camp de l'Arpa del Clot,3510.5,64,1159,2021
+10,Total. Euros/m2 construït,Sant Martí,3,el Clot,3297.4,65,1160,2021
+10,Total. Euros/m2 construït,Sant Martí,3,el Parc i la Llacuna del Poblenou,4218.7,66,1161,2021
+10,Total. Euros/m2 construït,Sant Martí,3,la Vila Olímpica del Poblenou,5317.9,67,1162,2021
+10,Total. Euros/m2 construït,Sant Martí,3,Diagonal Mar i el Front Marítim del Poblenou,4723.3,69,1164,2021
+10,Total. Euros/m2 construït,Sant Martí,3,el Besòs i el Maresme,2965.0,70,1165,2021
+10,Total. Euros/m2 construït,Sant Martí,3,Provençals del Poblenou,3336.9,71,1166,2021
+10,Total. Euros/m2 construït,Sant Martí,3,Sant Martí de Provençals,2599.2,72,1167,2021
+10,Total. Euros/m2 construït,Sant Martí,3,la Verneda i la Pau,2370.0,73,1168,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,3,el Raval,--,1,1169,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,3,el Barri Gòtic,--,2,1170,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,3,la Barceloneta,3268.8,3,1171,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,3,"Sant Pere, Santa Caterina i la Ribera",6271.6,4,1172,2021
+2,Nou. Euros/m2 construït,Eixample,3,el Fort Pienc,--,5,1173,2021
+2,Nou. Euros/m2 construït,Eixample,3,la Sagrada Família,4312.0,6,1174,2021
+2,Nou. Euros/m2 construït,Eixample,3,la Dreta de l'Eixample,9664.4,7,1175,2021
+2,Nou. Euros/m2 construït,Eixample,3,l'Antiga Esquerra de l'Eixample,7082.5,8,1176,2021
+2,Nou. Euros/m2 construït,Eixample,3,la Nova Esquerra de l'Eixample,3755.2,9,1177,2021
+2,Nou. Euros/m2 construït,Eixample,3,Sant Antoni,--,10,1178,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,el Poble Sec,--,11,1179,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,la Marina del Prat Vermell,--,12,1180,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,la Marina de Port,--,13,1181,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,la Font de la Guatlla,3925.8,14,1182,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,Hostafrancs,3887.7,15,1183,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,la Bordeta,--,16,1184,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,Sants - Badal,--,17,1185,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,3,Sants,5802.7,18,1186,2021
+4,Nou. Euros/m2 construït,Les Corts,3,les Corts,6364.4,19,1187,2021
+4,Nou. Euros/m2 construït,Les Corts,3,la Maternitat i Sant Ramon,--,20,1188,2021
+4,Nou. Euros/m2 construït,Les Corts,3,Pedralbes,6411.7,21,1189,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,3,"Vallvidrera, el Tibidabo i les Planes",--,22,1190,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sarrià,7904.1,23,1191,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,3,les Tres Torres,--,24,1192,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sant Gervasi - la Bonanova,7691.8,25,1193,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sant Gervasi - Galvany,5670.7,26,1194,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,3,el Putxet i el Farró,6626.5,27,1195,2021
+6,Nou. Euros/m2 construït,Gràcia,3,Vallcarca i els Penitents,3937.9,28,1196,2021
+6,Nou. Euros/m2 construït,Gràcia,3,el Coll,3603.9,29,1197,2021
+6,Nou. Euros/m2 construït,Gràcia,3,la Salut,--,30,1198,2021
+6,Nou. Euros/m2 construït,Gràcia,3,la Vila de Gràcia,--,31,1199,2021
+6,Nou. Euros/m2 construït,Gràcia,3,el Camp d'en Grassot i Gràcia Nova,--,32,1200,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,el Baix Guinardó,--,33,1201,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,Can Baró,--,34,1202,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,el Guinardó,5089.0,35,1203,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,la Font d'en Fargues,--,36,1204,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,el Carmel,1666.9,37,1205,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,la Teixonera,1229.6,38,1206,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,Sant Genís dels Agudells,2341.1,39,1207,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,Montbau,2742.8,40,1208,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,la Vall d'Hebron,--,41,1209,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,la Clota,--,42,1210,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,3,Horta,3048.1,43,1211,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Vilapicina i la Torre Llobeta,3964.8,44,1212,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Porta,--,45,1213,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,el Turó de la Peira,--,46,1214,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Can Peguera,--,47,1215,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,la Guineueta,--,48,1216,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Canyelles,--,49,1217,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,les Roquetes,--,50,1218,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Verdun,2779.4,51,1219,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,la Prosperitat,--,52,1220,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,la Trinitat Nova,--,53,1221,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Torre Baró,--,54,1222,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Ciutat Meridiana,--,55,1223,2021
+8,Nou. Euros/m2 construït,Nou Barris,3,Vallbona,--,56,1224,2021
+9,Nou. Euros/m2 construït,Sant Andreu,3,la Trinitat Vella,--,57,1225,2021
+9,Nou. Euros/m2 construït,Sant Andreu,3,Baró de Viver,--,58,1226,2021
+9,Nou. Euros/m2 construït,Sant Andreu,3,el Bon Pastor,--,59,1227,2021
+9,Nou. Euros/m2 construït,Sant Andreu,3,Sant Andreu,4188.2,60,1228,2021
+9,Nou. Euros/m2 construït,Sant Andreu,3,la Sagrera,--,61,1229,2021
+9,Nou. Euros/m2 construït,Sant Andreu,3,el Congrés i els Indians,4565.6,62,1230,2021
+9,Nou. Euros/m2 construït,Sant Andreu,3,Navas,--,63,1231,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,el Camp de l'Arpa del Clot,--,64,1232,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,el Clot,--,65,1233,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,el Parc i la Llacuna del Poblenou,4144.0,66,1234,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,la Vila Olímpica del Poblenou,5527.5,67,1235,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,el Poblenou,6176.3,68,1236,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,Diagonal Mar i el Front Marítim del Poblenou,--,69,1237,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,el Besòs i el Maresme,4251.8,70,1238,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,Provençals del Poblenou,3266.8,71,1239,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,Sant Martí de Provençals,--,72,1240,2021
+10,Nou. Euros/m2 construït,Sant Martí,3,la Verneda i la Pau,--,73,1241,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,3,el Raval,2803.2,1,1242,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,3,el Barri Gòtic,4648.9,2,1243,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,3,la Barceloneta,4659.0,3,1244,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,3,"Sant Pere, Santa Caterina i la Ribera",4194.5,4,1245,2021
+2,Usat. Euros/m2 construït,Eixample,3,el Fort Pienc,4088.5,5,1246,2021
+2,Usat. Euros/m2 construït,Eixample,3,la Sagrada Família,3923.3,6,1247,2021
+2,Usat. Euros/m2 construït,Eixample,3,la Dreta de l'Eixample,5636.9,7,1248,2021
+2,Usat. Euros/m2 construït,Eixample,3,l'Antiga Esquerra de l'Eixample,5137.6,8,1249,2021
+2,Usat. Euros/m2 construït,Eixample,3,la Nova Esquerra de l'Eixample,4550.3,9,1250,2021
+2,Usat. Euros/m2 construït,Eixample,3,Sant Antoni,5508.9,10,1251,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,el Poble Sec,4678.1,11,1252,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,la Marina del Prat Vermell,2783.5,12,1253,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,la Marina de Port,3453.7,13,1254,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,la Font de la Guatlla,3623.0,14,1255,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,Hostafrancs,3607.9,15,1256,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,la Bordeta,3457.2,16,1257,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,Sants - Badal,3665.3,17,1258,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,3,Sants,3423.1,18,1259,2021
+4,Usat. Euros/m2 construït,Les Corts,3,les Corts,4423.9,19,1260,2021
+4,Usat. Euros/m2 construït,Les Corts,3,la Maternitat i Sant Ramon,4992.2,20,1261,2021
+4,Usat. Euros/m2 construït,Les Corts,3,Pedralbes,7004.7,21,1262,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,3,"Vallvidrera, el Tibidabo i les Planes",3822.5,22,1263,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sarrià,6402.5,23,1264,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,3,les Tres Torres,6289.8,24,1265,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sant Gervasi - la Bonanova,7602.5,25,1266,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,3,Sant Gervasi - Galvany,6374.7,26,1267,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,3,el Putxet i el Farró,4522.0,27,1268,2021
+6,Usat. Euros/m2 construït,Gràcia,3,Vallcarca i els Penitents,3925.1,28,1269,2021
+6,Usat. Euros/m2 construït,Gràcia,3,el Coll,2940.3,29,1270,2021
+6,Usat. Euros/m2 construït,Gràcia,3,la Salut,4148.2,30,1271,2021
+6,Usat. Euros/m2 construït,Gràcia,3,la Vila de Gràcia,4201.2,31,1272,2021
+6,Usat. Euros/m2 construït,Gràcia,3,el Camp d'en Grassot i Gràcia Nova,4453.3,32,1273,2021
+9,Usat. Euros/m2 construït,Sant Andreu,3,la Sagrera,3160.5,61,1302,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,el Baix Guinardó,3878.5,33,1274,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,Can Baró,3247.7,34,1275,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,el Guinardó,3236.4,35,1276,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,la Font d'en Fargues,3740.7,36,1277,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,el Carmel,2692.8,37,1278,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,la Teixonera,3147.9,38,1279,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,Sant Genís dels Agudells,2988.2,39,1280,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,Montbau,2377.9,40,1281,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,la Vall d'Hebron,3495.6,41,1282,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,la Clota,--,42,1283,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,3,Horta,2625.6,43,1284,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Vilapicina i la Torre Llobeta,2780.8,44,1285,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Porta,2982.8,45,1286,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,el Turó de la Peira,2808.7,46,1287,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Can Peguera,--,47,1288,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,la Guineueta,2548.8,48,1289,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Canyelles,1894.1,49,1290,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,les Roquetes,1743.4,50,1291,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Verdun,2174.8,51,1292,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,la Prosperitat,2936.1,52,1293,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,la Trinitat Nova,1822.8,53,1294,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Torre Baró,--,54,1295,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Ciutat Meridiana,1485.3,55,1296,2021
+8,Usat. Euros/m2 construït,Nou Barris,3,Vallbona,--,56,1297,2021
+9,Usat. Euros/m2 construït,Sant Andreu,3,la Trinitat Vella,1926.1,57,1298,2021
+9,Usat. Euros/m2 construït,Sant Andreu,3,Baró de Viver,--,58,1299,2021
+9,Usat. Euros/m2 construït,Sant Andreu,3,el Bon Pastor,2227.8,59,1300,2021
+9,Usat. Euros/m2 construït,Sant Andreu,3,Sant Andreu,3645.2,60,1301,2021
+9,Usat. Euros/m2 construït,Sant Andreu,3,el Congrés i els Indians,3376.5,62,1303,2021
+9,Usat. Euros/m2 construït,Sant Andreu,3,Navas,2991.0,63,1304,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,el Camp de l'Arpa del Clot,3510.5,64,1305,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,el Clot,3297.4,65,1306,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,el Parc i la Llacuna del Poblenou,4341.7,66,1307,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,la Vila Olímpica del Poblenou,5160.7,67,1308,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,el Poblenou,4542.5,68,1309,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,Diagonal Mar i el Front Marítim del Poblenou,4764.4,69,1310,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,el Besòs i el Maresme,2064.3,70,1311,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,Provençals del Poblenou,3348.6,71,1312,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,Sant Martí de Provençals,2599.2,72,1313,2021
+10,Usat. Euros/m2 construït,Sant Martí,3,la Verneda i la Pau,2406.5,73,1314,2021
+1,Total. Milers d'euros,Ciutat Vella,4,el Raval,223.5,1,1315,2021
+1,Total. Milers d'euros,Ciutat Vella,4,el Barri Gòtic,324.8,2,1316,2021
+1,Total. Milers d'euros,Ciutat Vella,4,la Barceloneta,165.0,3,1317,2021
+1,Total. Milers d'euros,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",326.5,4,1318,2021
+2,Total. Milers d'euros,Eixample,4,el Fort Pienc,312.3,5,1319,2021
+2,Total. Milers d'euros,Eixample,4,la Sagrada Família,308.2,6,1320,2021
+2,Total. Milers d'euros,Eixample,4,la Dreta de l'Eixample,622.0,7,1321,2021
+2,Total. Milers d'euros,Eixample,4,l'Antiga Esquerra de l'Eixample,452.6,8,1322,2021
+2,Total. Milers d'euros,Eixample,4,la Nova Esquerra de l'Eixample,402.1,9,1323,2021
+2,Total. Milers d'euros,Eixample,4,Sant Antoni,396.3,10,1324,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,el Poble Sec,229.8,11,1325,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,la Marina del Prat Vermell,103.1,12,1326,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,la Marina de Port,239.1,13,1327,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,la Font de la Guatlla,262.8,14,1328,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,Hostafrancs,256.7,15,1329,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,la Bordeta,232.3,16,1330,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,Sants - Badal,226.0,17,1331,2021
+3,Total. Milers d'euros,Sants-Montjuïc,4,Sants,279.7,18,1332,2021
+4,Total. Milers d'euros,Les Corts,4,les Corts,470.4,19,1333,2021
+4,Total. Milers d'euros,Les Corts,4,la Maternitat i Sant Ramon,394.8,20,1334,2021
+4,Total. Milers d'euros,Les Corts,4,Pedralbes,646.6,21,1335,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,4,"Vallvidrera, el Tibidabo i les Planes",760.0,22,1336,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,4,Sarrià,703.6,23,1337,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,4,les Tres Torres,787.7,24,1338,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,4,Sant Gervasi - la Bonanova,757.5,25,1339,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,4,Sant Gervasi - Galvany,910.8,26,1340,2021
+5,Total. Milers d'euros,Sarrià-Sant Gervasi,4,el Putxet i el Farró,529.5,27,1341,2021
+6,Total. Milers d'euros,Gràcia,4,Vallcarca i els Penitents,306.7,28,1342,2021
+6,Total. Milers d'euros,Gràcia,4,el Coll,251.2,29,1343,2021
+6,Total. Milers d'euros,Gràcia,4,la Salut,304.6,30,1344,2021
+6,Total. Milers d'euros,Gràcia,4,la Vila de Gràcia,340.7,31,1345,2021
+6,Total. Milers d'euros,Gràcia,4,el Camp d'en Grassot i Gràcia Nova,397.3,32,1346,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,el Baix Guinardó,254.0,33,1347,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,Can Baró,248.6,34,1348,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,el Guinardó,253.1,35,1349,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,la Font d'en Fargues,238.9,36,1350,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,el Carmel,142.9,37,1351,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,la Teixonera,240.6,38,1352,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,Sant Genís dels Agudells,189.0,39,1353,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,Montbau,180.6,40,1354,2021
+8,Nou. Milers d'euros,Nou Barris,4,la Trinitat Nova,--,53,1440,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,la Vall d'Hebron,235.0,41,1355,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,la Clota,--,42,1356,2021
+7,Total. Milers d'euros,Horta-Guinardó,4,Horta,208.7,43,1357,2021
+8,Total. Milers d'euros,Nou Barris,4,Vilapicina i la Torre Llobeta,219.2,44,1358,2021
+8,Total. Milers d'euros,Nou Barris,4,Porta,181.0,45,1359,2021
+8,Total. Milers d'euros,Nou Barris,4,el Turó de la Peira,125.7,46,1360,2021
+8,Total. Milers d'euros,Nou Barris,4,Can Peguera,--,47,1361,2021
+8,Total. Milers d'euros,Nou Barris,4,la Guineueta,232.3,48,1362,2021
+8,Total. Milers d'euros,Nou Barris,4,Canyelles,227.5,49,1363,2021
+8,Total. Milers d'euros,Nou Barris,4,les Roquetes,112.3,50,1364,2021
+8,Total. Milers d'euros,Nou Barris,4,Verdun,140.1,51,1365,2021
+8,Total. Milers d'euros,Nou Barris,4,la Prosperitat,144.8,52,1366,2021
+8,Total. Milers d'euros,Nou Barris,4,la Trinitat Nova,104.9,53,1367,2021
+8,Total. Milers d'euros,Nou Barris,4,Torre Baró,--,54,1368,2021
+8,Total. Milers d'euros,Nou Barris,4,Ciutat Meridiana,113.0,55,1369,2021
+8,Total. Milers d'euros,Nou Barris,4,Vallbona,--,56,1370,2021
+9,Total. Milers d'euros,Sant Andreu,4,la Trinitat Vella,84.1,57,1371,2021
+9,Total. Milers d'euros,Sant Andreu,4,Baró de Viver,--,58,1372,2021
+9,Total. Milers d'euros,Sant Andreu,4,el Bon Pastor,139.1,59,1373,2021
+9,Total. Milers d'euros,Sant Andreu,4,Sant Andreu,296.2,60,1374,2021
+9,Total. Milers d'euros,Sant Andreu,4,la Sagrera,262.3,61,1375,2021
+9,Total. Milers d'euros,Sant Andreu,4,el Congrés i els Indians,210.4,62,1376,2021
+9,Total. Milers d'euros,Sant Andreu,4,Navas,238.9,63,1377,2021
+10,Total. Milers d'euros,Sant Martí,4,el Camp de l'Arpa del Clot,246.1,64,1378,2021
+10,Total. Milers d'euros,Sant Martí,4,el Clot,315.0,65,1379,2021
+10,Total. Milers d'euros,Sant Martí,4,el Parc i la Llacuna del Poblenou,457.9,66,1380,2021
+10,Total. Milers d'euros,Sant Martí,4,la Vila Olímpica del Poblenou,447.8,67,1381,2021
+10,Total. Milers d'euros,Sant Martí,4,el Poblenou,328.3,68,1382,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Vallbona,--,56,1662,2021
+10,Total. Milers d'euros,Sant Martí,4,Diagonal Mar i el Front Marítim del Poblenou,416.4,69,1383,2021
+10,Total. Milers d'euros,Sant Martí,4,el Besòs i el Maresme,265.1,70,1384,2021
+10,Total. Milers d'euros,Sant Martí,4,Provençals del Poblenou,228.0,71,1385,2021
+10,Total. Milers d'euros,Sant Martí,4,Sant Martí de Provençals,187.8,72,1386,2021
+10,Total. Milers d'euros,Sant Martí,4,la Verneda i la Pau,176.6,73,1387,2021
+1,Nou. Milers d'euros,Ciutat Vella,4,el Raval,--,1,1388,2021
+1,Nou. Milers d'euros,Ciutat Vella,4,el Barri Gòtic,--,2,1389,2021
+1,Nou. Milers d'euros,Ciutat Vella,4,la Barceloneta,143.7,3,1390,2021
+1,Nou. Milers d'euros,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",--,4,1391,2021
+2,Nou. Milers d'euros,Eixample,4,el Fort Pienc,--,5,1392,2021
+2,Nou. Milers d'euros,Eixample,4,la Sagrada Família,201.3,6,1393,2021
+2,Nou. Milers d'euros,Eixample,4,la Dreta de l'Eixample,996.8,7,1394,2021
+2,Nou. Milers d'euros,Eixample,4,l'Antiga Esquerra de l'Eixample,378.0,8,1395,2021
+2,Nou. Milers d'euros,Eixample,4,la Nova Esquerra de l'Eixample,422.7,9,1396,2021
+2,Nou. Milers d'euros,Eixample,4,Sant Antoni,476.0,10,1397,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,el Poble Sec,--,11,1398,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,la Marina del Prat Vermell,--,12,1399,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,la Marina de Port,--,13,1400,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,la Font de la Guatlla,306.7,14,1401,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,Hostafrancs,292.5,15,1402,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,la Bordeta,--,16,1403,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,Sants - Badal,--,17,1404,2021
+3,Nou. Milers d'euros,Sants-Montjuïc,4,Sants,--,18,1405,2021
+4,Nou. Milers d'euros,Les Corts,4,les Corts,557.7,19,1406,2021
+4,Nou. Milers d'euros,Les Corts,4,la Maternitat i Sant Ramon,--,20,1407,2021
+4,Nou. Milers d'euros,Les Corts,4,Pedralbes,395.5,21,1408,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,4,"Vallvidrera, el Tibidabo i les Planes",--,22,1409,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,4,Sarrià,--,23,1410,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,4,les Tres Torres,--,24,1411,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,4,Sant Gervasi - la Bonanova,349.5,25,1412,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,4,Sant Gervasi - Galvany,670.6,26,1413,2021
+5,Nou. Milers d'euros,Sarrià-Sant Gervasi,4,el Putxet i el Farró,714.6,27,1414,2021
+6,Nou. Milers d'euros,Gràcia,4,Vallcarca i els Penitents,246.3,28,1415,2021
+6,Nou. Milers d'euros,Gràcia,4,el Coll,275.2,29,1416,2021
+6,Nou. Milers d'euros,Gràcia,4,la Salut,--,30,1417,2021
+6,Nou. Milers d'euros,Gràcia,4,la Vila de Gràcia,--,31,1418,2021
+6,Nou. Milers d'euros,Gràcia,4,el Camp d'en Grassot i Gràcia Nova,--,32,1419,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,el Baix Guinardó,--,33,1420,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,Can Baró,--,34,1421,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,el Guinardó,438.5,35,1422,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,la Font d'en Fargues,--,36,1423,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,el Carmel,165.7,37,1424,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,la Teixonera,190.7,38,1425,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,Sant Genís dels Agudells,205.0,39,1426,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,Montbau,159.8,40,1427,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,la Vall d'Hebron,--,41,1428,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,la Clota,--,42,1429,2021
+7,Nou. Milers d'euros,Horta-Guinardó,4,Horta,200.0,43,1430,2021
+8,Nou. Milers d'euros,Nou Barris,4,Vilapicina i la Torre Llobeta,321.7,44,1431,2021
+8,Nou. Milers d'euros,Nou Barris,4,Porta,--,45,1432,2021
+8,Nou. Milers d'euros,Nou Barris,4,el Turó de la Peira,--,46,1433,2021
+8,Nou. Milers d'euros,Nou Barris,4,Can Peguera,--,47,1434,2021
+8,Nou. Milers d'euros,Nou Barris,4,la Guineueta,--,48,1435,2021
+8,Nou. Milers d'euros,Nou Barris,4,Canyelles,--,49,1436,2021
+8,Nou. Milers d'euros,Nou Barris,4,les Roquetes,--,50,1437,2021
+8,Nou. Milers d'euros,Nou Barris,4,Verdun,--,51,1438,2021
+8,Nou. Milers d'euros,Nou Barris,4,la Prosperitat,--,52,1439,2021
+8,Nou. Milers d'euros,Nou Barris,4,Torre Baró,--,54,1441,2021
+8,Nou. Milers d'euros,Nou Barris,4,Ciutat Meridiana,--,55,1442,2021
+8,Nou. Milers d'euros,Nou Barris,4,Vallbona,--,56,1443,2021
+9,Nou. Milers d'euros,Sant Andreu,4,la Trinitat Vella,--,57,1444,2021
+9,Nou. Milers d'euros,Sant Andreu,4,Baró de Viver,--,58,1445,2021
+9,Nou. Milers d'euros,Sant Andreu,4,el Bon Pastor,--,59,1446,2021
+9,Nou. Milers d'euros,Sant Andreu,4,Sant Andreu,367.3,60,1447,2021
+9,Nou. Milers d'euros,Sant Andreu,4,la Sagrera,--,61,1448,2021
+9,Nou. Milers d'euros,Sant Andreu,4,el Congrés i els Indians,--,62,1449,2021
+9,Nou. Milers d'euros,Sant Andreu,4,Navas,223.0,63,1450,2021
+10,Nou. Milers d'euros,Sant Martí,4,el Camp de l'Arpa del Clot,--,64,1451,2021
+10,Nou. Milers d'euros,Sant Martí,4,el Clot,--,65,1452,2021
+10,Nou. Milers d'euros,Sant Martí,4,el Parc i la Llacuna del Poblenou,555.5,66,1453,2021
+10,Nou. Milers d'euros,Sant Martí,4,la Vila Olímpica del Poblenou,--,67,1454,2021
+10,Nou. Milers d'euros,Sant Martí,4,el Poblenou,319.4,68,1455,2021
+10,Nou. Milers d'euros,Sant Martí,4,Diagonal Mar i el Front Marítim del Poblenou,--,69,1456,2021
+10,Nou. Milers d'euros,Sant Martí,4,el Besòs i el Maresme,378.2,70,1457,2021
+10,Nou. Milers d'euros,Sant Martí,4,Provençals del Poblenou,185.7,71,1458,2021
+10,Nou. Milers d'euros,Sant Martí,4,Sant Martí de Provençals,--,72,1459,2021
+10,Nou. Milers d'euros,Sant Martí,4,la Verneda i la Pau,--,73,1460,2021
+1,Usat. Milers d'euros,Ciutat Vella,4,el Raval,223.5,1,1461,2021
+1,Usat. Milers d'euros,Ciutat Vella,4,el Barri Gòtic,323.8,2,1462,2021
+1,Usat. Milers d'euros,Ciutat Vella,4,la Barceloneta,167.2,3,1463,2021
+1,Usat. Milers d'euros,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",304.6,4,1464,2021
+2,Usat. Milers d'euros,Eixample,4,el Fort Pienc,314.6,5,1465,2021
+2,Usat. Milers d'euros,Eixample,4,la Sagrada Família,316.3,6,1466,2021
+2,Usat. Milers d'euros,Eixample,4,la Dreta de l'Eixample,587.6,7,1467,2021
+2,Usat. Milers d'euros,Eixample,4,l'Antiga Esquerra de l'Eixample,453.7,8,1468,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,Sants,3842.2,18,1551,2021
+2,Usat. Milers d'euros,Eixample,4,la Nova Esquerra de l'Eixample,395.8,9,1469,2021
+2,Usat. Milers d'euros,Eixample,4,Sant Antoni,384.6,10,1470,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,el Poble Sec,225.5,11,1471,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,la Marina del Prat Vermell,103.1,12,1472,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,la Marina de Port,239.1,13,1473,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,la Font de la Guatlla,246.3,14,1474,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,Hostafrancs,224.9,15,1475,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,la Bordeta,232.3,16,1476,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,Sants - Badal,239.9,17,1477,2021
+3,Usat. Milers d'euros,Sants-Montjuïc,4,Sants,278.8,18,1478,2021
+4,Usat. Milers d'euros,Les Corts,4,les Corts,441.3,19,1479,2021
+4,Usat. Milers d'euros,Les Corts,4,la Maternitat i Sant Ramon,401.0,20,1480,2021
+4,Usat. Milers d'euros,Les Corts,4,Pedralbes,844.0,21,1481,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,4,"Vallvidrera, el Tibidabo i les Planes",760.0,22,1482,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,4,Sarrià,690.1,23,1483,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,4,les Tres Torres,788.8,24,1484,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,4,Sant Gervasi - la Bonanova,831.7,25,1485,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,4,Sant Gervasi - Galvany,1000.9,26,1486,2021
+5,Usat. Milers d'euros,Sarrià-Sant Gervasi,4,el Putxet i el Farró,515.0,27,1487,2021
+6,Usat. Milers d'euros,Gràcia,4,Vallcarca i els Penitents,325.1,28,1488,2021
+6,Usat. Milers d'euros,Gràcia,4,el Coll,217.6,29,1489,2021
+6,Usat. Milers d'euros,Gràcia,4,la Salut,304.6,30,1490,2021
+6,Usat. Milers d'euros,Gràcia,4,la Vila de Gràcia,338.7,31,1491,2021
+6,Usat. Milers d'euros,Gràcia,4,el Camp d'en Grassot i Gràcia Nova,397.3,32,1492,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,el Baix Guinardó,229.0,33,1493,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,Can Baró,248.6,34,1494,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,el Guinardó,203.3,35,1495,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,la Font d'en Fargues,245.0,36,1496,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,el Carmel,134.4,37,1497,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,la Teixonera,268.7,38,1498,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,Sant Genís dels Agudells,--,39,1499,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,Montbau,189.9,40,1500,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,la Vall d'Hebron,--,41,1501,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,la Clota,--,42,1502,2021
+7,Usat. Milers d'euros,Horta-Guinardó,4,Horta,211.5,43,1503,2021
+8,Usat. Milers d'euros,Nou Barris,4,Vilapicina i la Torre Llobeta,207.9,44,1504,2021
+8,Usat. Milers d'euros,Nou Barris,4,Porta,181.0,45,1505,2021
+8,Usat. Milers d'euros,Nou Barris,4,el Turó de la Peira,125.7,46,1506,2021
+8,Usat. Milers d'euros,Nou Barris,4,Can Peguera,--,47,1507,2021
+8,Usat. Milers d'euros,Nou Barris,4,la Guineueta,232.3,48,1508,2021
+8,Usat. Milers d'euros,Nou Barris,4,Canyelles,227.5,49,1509,2021
+8,Usat. Milers d'euros,Nou Barris,4,les Roquetes,112.3,50,1510,2021
+8,Usat. Milers d'euros,Nou Barris,4,Verdun,135.1,51,1511,2021
+8,Usat. Milers d'euros,Nou Barris,4,la Prosperitat,142.3,52,1512,2021
+8,Usat. Milers d'euros,Nou Barris,4,la Trinitat Nova,104.9,53,1513,2021
+8,Usat. Milers d'euros,Nou Barris,4,Torre Baró,--,54,1514,2021
+8,Usat. Milers d'euros,Nou Barris,4,Ciutat Meridiana,113.0,55,1515,2021
+8,Usat. Milers d'euros,Nou Barris,4,Vallbona,--,56,1516,2021
+9,Usat. Milers d'euros,Sant Andreu,4,la Trinitat Vella,77.8,57,1517,2021
+9,Usat. Milers d'euros,Sant Andreu,4,Baró de Viver,--,58,1518,2021
+9,Usat. Milers d'euros,Sant Andreu,4,el Bon Pastor,139.1,59,1519,2021
+9,Usat. Milers d'euros,Sant Andreu,4,Sant Andreu,285.5,60,1520,2021
+9,Usat. Milers d'euros,Sant Andreu,4,la Sagrera,262.3,61,1521,2021
+9,Usat. Milers d'euros,Sant Andreu,4,el Congrés i els Indians,197.4,62,1522,2021
+9,Usat. Milers d'euros,Sant Andreu,4,Navas,256.2,63,1523,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,Sants - Badal,3494.1,17,1550,2021
+10,Usat. Milers d'euros,Sant Martí,4,el Camp de l'Arpa del Clot,246.1,64,1524,2021
+10,Usat. Milers d'euros,Sant Martí,4,el Clot,315.0,65,1525,2021
+10,Usat. Milers d'euros,Sant Martí,4,el Parc i la Llacuna del Poblenou,296.8,66,1526,2021
+10,Usat. Milers d'euros,Sant Martí,4,la Vila Olímpica del Poblenou,447.7,67,1527,2021
+10,Usat. Milers d'euros,Sant Martí,4,el Poblenou,332.3,68,1528,2021
+10,Usat. Milers d'euros,Sant Martí,4,Diagonal Mar i el Front Marítim del Poblenou,431.5,69,1529,2021
+10,Usat. Milers d'euros,Sant Martí,4,el Besòs i el Maresme,172.8,70,1530,2021
+10,Usat. Milers d'euros,Sant Martí,4,Provençals del Poblenou,255.2,71,1531,2021
+10,Usat. Milers d'euros,Sant Martí,4,Sant Martí de Provençals,187.8,72,1532,2021
+10,Usat. Milers d'euros,Sant Martí,4,la Verneda i la Pau,176.6,73,1533,2021
+1,Total. Euros/m2 construït,Ciutat Vella,4,el Raval,3557.5,1,1534,2021
+1,Total. Euros/m2 construït,Ciutat Vella,4,el Barri Gòtic,4042.1,2,1535,2021
+1,Total. Euros/m2 construït,Ciutat Vella,4,la Barceloneta,4488.0,3,1536,2021
+1,Total. Euros/m2 construït,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4180.7,4,1537,2021
+2,Total. Euros/m2 construït,Eixample,4,el Fort Pienc,3960.8,5,1538,2021
+2,Total. Euros/m2 construït,Eixample,4,la Sagrada Família,3994.1,6,1539,2021
+2,Total. Euros/m2 construït,Eixample,4,la Dreta de l'Eixample,5513.5,7,1540,2021
+2,Total. Euros/m2 construït,Eixample,4,l'Antiga Esquerra de l'Eixample,4790.6,8,1541,2021
+2,Total. Euros/m2 construït,Eixample,4,la Nova Esquerra de l'Eixample,4589.7,9,1542,2021
+2,Total. Euros/m2 construït,Eixample,4,Sant Antoni,4039.7,10,1543,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,el Poble Sec,3869.0,11,1544,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,la Marina del Prat Vermell,1435.1,12,1545,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,la Marina de Port,3596.8,13,1546,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,la Font de la Guatlla,4094.1,14,1547,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,Hostafrancs,3554.8,15,1548,2021
+3,Total. Euros/m2 construït,Sants-Montjuïc,4,la Bordeta,3476.7,16,1549,2021
+4,Total. Euros/m2 construït,Les Corts,4,les Corts,5308.9,19,1552,2021
+4,Total. Euros/m2 construït,Les Corts,4,la Maternitat i Sant Ramon,4187.3,20,1553,2021
+4,Total. Euros/m2 construït,Les Corts,4,Pedralbes,4655.0,21,1554,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,4,"Vallvidrera, el Tibidabo i les Planes",5629.6,22,1555,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sarrià,5245.6,23,1556,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,4,les Tres Torres,6114.0,24,1557,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sant Gervasi - la Bonanova,6271.3,25,1558,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sant Gervasi - Galvany,6871.8,26,1559,2021
+5,Total. Euros/m2 construït,Sarrià-Sant Gervasi,4,el Putxet i el Farró,5113.0,27,1560,2021
+6,Total. Euros/m2 construït,Gràcia,4,Vallcarca i els Penitents,3634.3,28,1561,2021
+6,Total. Euros/m2 construït,Gràcia,4,el Coll,3468.6,29,1562,2021
+6,Total. Euros/m2 construït,Gràcia,4,la Salut,3941.4,30,1563,2021
+6,Total. Euros/m2 construït,Gràcia,4,la Vila de Gràcia,4711.5,31,1564,2021
+6,Total. Euros/m2 construït,Gràcia,4,el Camp d'en Grassot i Gràcia Nova,4590.6,32,1565,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,el Baix Guinardó,3404.3,33,1566,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,Can Baró,3380.2,34,1567,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,el Guinardó,3731.3,35,1568,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,la Font d'en Fargues,3713.7,36,1569,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,el Carmel,2408.6,37,1570,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,la Teixonera,3560.7,38,1571,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,Sant Genís dels Agudells,2831.7,39,1572,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,Montbau,2814.2,40,1573,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,la Vall d'Hebron,4795.9,41,1574,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,la Clota,--,42,1575,2021
+7,Total. Euros/m2 construït,Horta-Guinardó,4,Horta,3040.2,43,1576,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Vilapicina i la Torre Llobeta,3211.1,44,1577,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Porta,2755.5,45,1578,2021
+8,Total. Euros/m2 construït,Nou Barris,4,el Turó de la Peira,2096.1,46,1579,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Can Peguera,--,47,1580,2021
+8,Total. Euros/m2 construït,Nou Barris,4,la Guineueta,3502.6,48,1581,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Canyelles,2632.2,49,1582,2021
+8,Total. Euros/m2 construït,Nou Barris,4,les Roquetes,1835.5,50,1583,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Verdun,2273.4,51,1584,2021
+8,Total. Euros/m2 construït,Nou Barris,4,la Prosperitat,2744.7,52,1585,2021
+8,Total. Euros/m2 construït,Nou Barris,4,la Trinitat Nova,1850.8,53,1586,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Torre Baró,--,54,1587,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Ciutat Meridiana,1929.3,55,1588,2021
+8,Total. Euros/m2 construït,Nou Barris,4,Vallbona,--,56,1589,2021
+9,Total. Euros/m2 construït,Sant Andreu,4,la Trinitat Vella,1588.9,57,1590,2021
+9,Total. Euros/m2 construït,Sant Andreu,4,Baró de Viver,--,58,1591,2021
+9,Total. Euros/m2 construït,Sant Andreu,4,el Bon Pastor,2249.5,59,1592,2021
+9,Total. Euros/m2 construït,Sant Andreu,4,Sant Andreu,3415.6,60,1593,2021
+9,Total. Euros/m2 construït,Sant Andreu,4,la Sagrera,3337.4,61,1594,2021
+9,Total. Euros/m2 construït,Sant Andreu,4,el Congrés i els Indians,2955.8,62,1595,2021
+9,Total. Euros/m2 construït,Sant Andreu,4,Navas,2831.6,63,1596,2021
+10,Total. Euros/m2 construït,Sant Martí,4,el Camp de l'Arpa del Clot,3762.6,64,1597,2021
+10,Total. Euros/m2 construït,Sant Martí,4,el Clot,4336.0,65,1598,2021
+10,Total. Euros/m2 construït,Sant Martí,4,el Parc i la Llacuna del Poblenou,4763.4,66,1599,2021
+10,Total. Euros/m2 construït,Sant Martí,4,la Vila Olímpica del Poblenou,4880.3,67,1600,2021
+10,Total. Euros/m2 construït,Sant Martí,4,el Poblenou,4518.0,68,1601,2021
+10,Total. Euros/m2 construït,Sant Martí,4,Diagonal Mar i el Front Marítim del Poblenou,4167.5,69,1602,2021
+10,Total. Euros/m2 construït,Sant Martí,4,el Besòs i el Maresme,3272.1,70,1603,2021
+10,Total. Euros/m2 construït,Sant Martí,4,Provençals del Poblenou,3303.9,71,1604,2021
+10,Total. Euros/m2 construït,Sant Martí,4,Sant Martí de Provençals,2824.1,72,1605,2021
+10,Total. Euros/m2 construït,Sant Martí,4,la Verneda i la Pau,2505.6,73,1606,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,4,el Raval,--,1,1607,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,4,el Barri Gòtic,--,2,1608,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,4,la Barceloneta,4509.4,3,1609,2021
+1,Nou. Euros/m2 construït,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",--,4,1610,2021
+2,Nou. Euros/m2 construït,Eixample,4,el Fort Pienc,--,5,1611,2021
+2,Nou. Euros/m2 construït,Eixample,4,la Sagrada Família,3021.7,6,1612,2021
+2,Nou. Euros/m2 construït,Eixample,4,la Dreta de l'Eixample,7902.2,7,1613,2021
+2,Nou. Euros/m2 construït,Eixample,4,l'Antiga Esquerra de l'Eixample,5558.8,8,1614,2021
+2,Nou. Euros/m2 construït,Eixample,4,la Nova Esquerra de l'Eixample,5054.1,9,1615,2021
+2,Nou. Euros/m2 construït,Eixample,4,Sant Antoni,2210.5,10,1616,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,el Poble Sec,--,11,1617,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,la Marina del Prat Vermell,--,12,1618,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,la Marina de Port,--,13,1619,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,la Font de la Guatlla,3473.1,14,1620,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,Hostafrancs,3603.3,15,1621,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,la Bordeta,--,16,1622,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,Sants - Badal,--,17,1623,2021
+3,Nou. Euros/m2 construït,Sants-Montjuïc,4,Sants,--,18,1624,2021
+4,Nou. Euros/m2 construït,Les Corts,4,les Corts,7380.8,19,1625,2021
+4,Nou. Euros/m2 construït,Les Corts,4,la Maternitat i Sant Ramon,--,20,1626,2021
+4,Nou. Euros/m2 construït,Les Corts,4,Pedralbes,3996.4,21,1627,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,4,"Vallvidrera, el Tibidabo i les Planes",--,22,1628,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sarrià,--,23,1629,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,4,les Tres Torres,--,24,1630,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sant Gervasi - la Bonanova,3765.4,25,1631,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sant Gervasi - Galvany,7269.5,26,1632,2021
+5,Nou. Euros/m2 construït,Sarrià-Sant Gervasi,4,el Putxet i el Farró,8123.4,27,1633,2021
+6,Nou. Euros/m2 construït,Gràcia,4,Vallcarca i els Penitents,3291.7,28,1634,2021
+6,Nou. Euros/m2 construït,Gràcia,4,el Coll,3740.2,29,1635,2021
+6,Nou. Euros/m2 construït,Gràcia,4,la Salut,--,30,1636,2021
+6,Nou. Euros/m2 construït,Gràcia,4,la Vila de Gràcia,--,31,1637,2021
+6,Nou. Euros/m2 construït,Gràcia,4,el Camp d'en Grassot i Gràcia Nova,--,32,1638,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,el Baix Guinardó,--,33,1639,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,Can Baró,--,34,1640,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,el Guinardó,5564.0,35,1641,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,la Font d'en Fargues,--,36,1642,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,el Carmel,2610.2,37,1643,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,la Teixonera,3075.1,38,1644,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,Sant Genís dels Agudells,2628.2,39,1645,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,Montbau,2508.4,40,1646,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,la Vall d'Hebron,--,41,1647,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,la Clota,--,42,1648,2021
+7,Nou. Euros/m2 construït,Horta-Guinardó,4,Horta,3251.1,43,1649,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Vilapicina i la Torre Llobeta,4265.0,44,1650,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Porta,--,45,1651,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,el Turó de la Peira,--,46,1652,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Can Peguera,--,47,1653,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,la Guineueta,--,48,1654,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Canyelles,--,49,1655,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,les Roquetes,--,50,1656,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Verdun,--,51,1657,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,la Prosperitat,--,52,1658,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,la Trinitat Nova,--,53,1659,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Torre Baró,--,54,1660,2021
+8,Nou. Euros/m2 construït,Nou Barris,4,Ciutat Meridiana,--,55,1661,2021
+9,Nou. Euros/m2 construït,Sant Andreu,4,la Trinitat Vella,--,57,1663,2021
+9,Nou. Euros/m2 construït,Sant Andreu,4,Baró de Viver,--,58,1664,2021
+9,Nou. Euros/m2 construït,Sant Andreu,4,el Bon Pastor,--,59,1665,2021
+9,Nou. Euros/m2 construït,Sant Andreu,4,Sant Andreu,3504.4,60,1666,2021
+9,Nou. Euros/m2 construït,Sant Andreu,4,la Sagrera,--,61,1667,2021
+9,Nou. Euros/m2 construït,Sant Andreu,4,el Congrés i els Indians,--,62,1668,2021
+9,Nou. Euros/m2 construït,Sant Andreu,4,Navas,2751.1,63,1669,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,el Camp de l'Arpa del Clot,--,64,1670,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,el Clot,--,65,1671,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,el Parc i la Llacuna del Poblenou,5195.3,66,1672,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,la Vila Olímpica del Poblenou,--,67,1673,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,el Poblenou,4046.1,68,1674,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,Diagonal Mar i el Front Marítim del Poblenou,--,69,1675,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,el Besòs i el Maresme,4347.2,70,1676,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,Provençals del Poblenou,2523.1,71,1677,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,Sant Martí de Provençals,--,72,1678,2021
+10,Nou. Euros/m2 construït,Sant Martí,4,la Verneda i la Pau,--,73,1679,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,4,el Raval,3557.5,1,1680,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,4,el Barri Gòtic,3977.1,2,1681,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,4,la Barceloneta,4485.7,3,1682,2021
+1,Usat. Euros/m2 construït,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",3983.8,4,1683,2021
+2,Usat. Euros/m2 construït,Eixample,4,el Fort Pienc,3961.7,5,1684,2021
+2,Usat. Euros/m2 construït,Eixample,4,la Sagrada Família,4067.5,6,1685,2021
+2,Usat. Euros/m2 construït,Eixample,4,la Dreta de l'Eixample,5294.1,7,1686,2021
+2,Usat. Euros/m2 construït,Eixample,4,l'Antiga Esquerra de l'Eixample,4779.3,8,1687,2021
+2,Usat. Euros/m2 construït,Eixample,4,la Nova Esquerra de l'Eixample,4446.7,9,1688,2021
+2,Usat. Euros/m2 construït,Eixample,4,Sant Antoni,4308.7,10,1689,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,el Poble Sec,3852.5,11,1690,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,la Marina del Prat Vermell,1435.1,12,1691,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,la Marina de Port,3596.8,13,1692,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,la Font de la Guatlla,4326.9,14,1693,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,Hostafrancs,3511.7,15,1694,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,la Bordeta,3476.7,16,1695,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,Sants - Badal,3757.2,17,1696,2021
+3,Usat. Euros/m2 construït,Sants-Montjuïc,4,Sants,3823.2,18,1697,2021
+4,Usat. Euros/m2 construït,Les Corts,4,les Corts,4618.3,19,1698,2021
+4,Usat. Euros/m2 construït,Les Corts,4,la Maternitat i Sant Ramon,4213.8,20,1699,2021
+4,Usat. Euros/m2 construït,Les Corts,4,Pedralbes,5172.6,21,1700,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,4,"Vallvidrera, el Tibidabo i les Planes",5629.6,22,1701,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sarrià,5224.9,23,1702,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,4,les Tres Torres,5727.7,24,1703,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sant Gervasi - la Bonanova,6726.9,25,1704,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,4,Sant Gervasi - Galvany,6722.7,26,1705,2021
+5,Usat. Euros/m2 construït,Sarrià-Sant Gervasi,4,el Putxet i el Farró,4876.9,27,1706,2021
+6,Usat. Euros/m2 construït,Gràcia,4,Vallcarca i els Penitents,3738.6,28,1707,2021
+6,Usat. Euros/m2 construït,Gràcia,4,el Coll,3088.4,29,1708,2021
+6,Usat. Euros/m2 construït,Gràcia,4,la Salut,3941.4,30,1709,2021
+6,Usat. Euros/m2 construït,Gràcia,4,la Vila de Gràcia,4656.1,31,1710,2021
+6,Usat. Euros/m2 construït,Gràcia,4,el Camp d'en Grassot i Gràcia Nova,4590.6,32,1711,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,el Baix Guinardó,3364.6,33,1712,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,Can Baró,3380.2,34,1713,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,el Guinardó,3239.6,35,1714,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,la Font d'en Fargues,3710.7,36,1715,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,el Carmel,2333.6,37,1716,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,la Teixonera,3833.8,38,1717,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,Sant Genís dels Agudells,--,39,1718,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,Montbau,2950.2,40,1719,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,la Vall d'Hebron,--,41,1720,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,la Clota,--,42,1721,2021
+7,Usat. Euros/m2 construït,Horta-Guinardó,4,Horta,2969.9,43,1722,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Vilapicina i la Torre Llobeta,3093.9,44,1723,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Porta,2755.5,45,1724,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,el Turó de la Peira,2096.1,46,1725,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Can Peguera,--,47,1726,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,la Guineueta,3502.6,48,1727,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Canyelles,2632.2,49,1728,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,les Roquetes,1835.5,50,1729,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Verdun,2206.0,51,1730,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,la Prosperitat,2657.4,52,1731,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,la Trinitat Nova,1850.8,53,1732,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Torre Baró,--,54,1733,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Ciutat Meridiana,1929.3,55,1734,2021
+8,Usat. Euros/m2 construït,Nou Barris,4,Vallbona,--,56,1735,2021
+9,Usat. Euros/m2 construït,Sant Andreu,4,la Trinitat Vella,1260.2,57,1736,2021
+9,Usat. Euros/m2 construït,Sant Andreu,4,Baró de Viver,--,58,1737,2021
+9,Usat. Euros/m2 construït,Sant Andreu,4,el Bon Pastor,2249.5,59,1738,2021
+9,Usat. Euros/m2 construït,Sant Andreu,4,Sant Andreu,3402.2,60,1739,2021
+9,Usat. Euros/m2 construït,Sant Andreu,4,la Sagrera,3337.4,61,1740,2021
+9,Usat. Euros/m2 construït,Sant Andreu,4,el Congrés i els Indians,2785.6,62,1741,2021
+9,Usat. Euros/m2 construït,Sant Andreu,4,Navas,2919.5,63,1742,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,el Camp de l'Arpa del Clot,3762.6,64,1743,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,el Clot,4336.0,65,1744,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,el Parc i la Llacuna del Poblenou,4050.7,66,1745,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,la Vila Olímpica del Poblenou,4874.2,67,1746,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,el Poblenou,4726.9,68,1747,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,Diagonal Mar i el Front Marítim del Poblenou,4303.7,69,1748,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,el Besòs i el Maresme,2395.0,70,1749,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,Provençals del Poblenou,3805.8,71,1750,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,Sant Martí de Provençals,2824.1,72,1751,2021
+10,Usat. Euros/m2 construït,Sant Martí,4,la Verneda i la Pau,2505.6,73,1752,2021
