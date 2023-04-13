@@ -51,7 +51,6 @@ def insert_csv_data_to_mongo(temporal_landing_path: str, collection_name: str, d
     folder_path = f'{temporal_landing_path}{collection_name}/'
 
     collection = data_base_mongo[collection_name]
-    collection.delete_many({}) # (?) hace falta borrar la colección antes de insertar los datos?
 
     if update_type == 'complete':
         files_list = [f for f in os.listdir(folder_path)]

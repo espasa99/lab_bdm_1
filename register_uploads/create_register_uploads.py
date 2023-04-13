@@ -11,7 +11,6 @@ c.execute('''CREATE TABLE uploads_temporal_landing
 c.execute('''CREATE TABLE uploads_persitent_landing
              (upload_date text, valid_date text, file_name text, file_format text, collection_name text)''')
 
-
 conn.commit()
 
 conn.close()
