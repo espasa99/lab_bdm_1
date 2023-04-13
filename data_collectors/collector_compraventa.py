@@ -22,7 +22,7 @@ records_data_frame = pd.DataFrame(data_json['result']['records'])
 metadata_data_frame = pd.DataFrame(data_json['result']['fields'])
 
 # save csv files
-records_data_frame.to_csv('./temporal_landing/compraventa_api/records_compraventa.csv', index=False)
+records_data_frame.to_csv('./temporal_landing/compraventa_api/2022_records_compraventa.csv', index=False)
 print("Los datos de records de compraventa se han guardado correctamente.")
 
 # metadata_data_frame.to_csv('./temporal_landing/compraventa_api/metadata_compraventa.csv', index=False)

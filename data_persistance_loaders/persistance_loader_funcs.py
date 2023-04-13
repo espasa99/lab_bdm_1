@@ -2,6 +2,8 @@ import os
 import json
 import pandas as pd
 from pymongo import MongoClient
+import sqlite3
+from datetime import datetime
 
 def connect_mongo(mongo_connection_string: str, database_name: str) -> object:
     '''
@@ -26,7 +28,7 @@ def connect_mongo(mongo_connection_string: str, database_name: str) -> object:
 
     return db
 
-def insert_data_to_mongo(temporal_landing_path: str, collection_name: str, data_base_mongo: object, insert_type=['all']) -> None:
+def insert_csv_data_to_mongo(temporal_landing_path: str, collection_name: str, data_base_mongo: object, insert_type=['all']) -> None:
     '''
     Function to read and load the CSV files into MongoDB
 
@@ -61,11 +63,15 @@ def insert_data_to_mongo(temporal_landing_path: str, collection_name: str, data_
         df_file = pd.read_csv(file_path)
         data = df_file.to_dict("records")
 
-        if len(data) > 0:    # (?) hace falta comprobar que la lista no esté vacía
+        if len(data) > 0:    
             collection.insert_many(data)
+
+            date = file_name.split('_')[0]
+            
+            register_upload(date, file_name, 'json', collection_name)
             print(f"Los datos de {file_name} se han cargado correctamente en MongoDB.")
 
-def insert_idealista_data_mongo(temporal_landing_path: str, collection_name: str, data_base_mongo: object, insert_type=['all']) -> None:
+def insert_json_data_mongo(temporal_landing_path: str, collection_name: str, data_base_mongo: object, insert_type=['all']) -> None:
     '''
     Function to read and load the idealista files into MongoDB
 
@@ -99,11 +105,35 @@ def insert_idealista_data_mongo(temporal_landing_path: str, collection_name: str
 
         with open(file_path, 'r') as file:
 
-            data = json.load(file)
+            data = json.load(file)      
+            if len(data) > 0:
+                collection.insert_many(data)
 
-            for doc in data:       # (?) fa falta afegir la data a cada document?
-                doc['date'] = date
-                
-                collection.insert_one(doc)
-
+            register_upload(date, file_name, 'json', collection_name)
             print(f"Los datos de {file_name} se han cargado correctamente en MongoDB.")
+
+def register_upload(valid_date: str, file_name: str, file_format: str, collection_name: str) -> None:
+    '''
+    Function to register the upload in the database (SQLite)
+
+    Parameters
+    ----------
+    valid_date : str
+        Date of the data
+    file_name : str
+        Name of the file
+    file_format : str
+        Format of the file
+    collection_name : str
+    '''
+
+    conn = sqlite3.connect('./register_uploads/register_uploads.db')
+    c = conn.cursor()
+
+    now = datetime.now()
+    upload_date = now.strftime("%Y/%m/%d %H:%M:%S")
+    query = f"INSERT INTO log VALUES ('{upload_date}', '{valid_date}', '{file_name}', '{file_format}', '{collection_name}')"
+    c.execute(query)
+
+    conn.commit()
+    conn.close()
