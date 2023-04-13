@@ -56,7 +56,7 @@ def insert_csv_data_to_mongo(temporal_landing_path: str, collection_name: str, d
         files_list = [f for f in os.listdir(folder_path)]
 
     else:
-        files_list = temporal_files_modified_since_last_week(collection_name, update_frequency)
+        files_list = temporal_files_modified(collection_name, update_frequency)
 
     for file_name in files_list:
 
@@ -100,7 +100,7 @@ def insert_json_data_mongo(temporal_landing_path: str, collection_name: str, dat
         files_list = [f for f in os.listdir(folder_path)]
 
     else:
-        files_list = temporal_files_modified_since_last_week(collection_name, update_frequency)
+        files_list = temporal_files_modified(collection_name, update_frequency)
 
     for file_name in files_list:
         
@@ -142,9 +142,9 @@ def register_upload(valid_date: str, file_name: str, file_format: str, collectio
     conn.commit()
     conn.close()
 
-def temporal_files_modified_since_last_week(collection_name: str, update_frequency: int) -> list:
+def temporal_files_modified(collection_name: str, update_frequency: int) -> list:
     '''
-    Function to get the files modified since the last week in the temporal_landing
+    Function to get the files modified since the last week (or another frequency dependig on the config.) in the temporal_landing
 
     Returns
     -------
@@ -156,7 +156,7 @@ def temporal_files_modified_since_last_week(collection_name: str, update_frequen
     c = conn.cursor()
 
     today = datetime.now()
-    last_week = today - timedelta(weeks=update_frequency)
+    last_week = today - timedelta(days=update_frequency)
     last_week = last_week.strftime("%Y/%m/%d %H:%M:%S")
     
     query = f"SELECT file_name FROM uploads_temporal_landing WHERE upload_date >= '{last_week}' AND collection_name = '{collection_name}'"

@@ -1,6 +1,6 @@
 from persistance_loader_funcs import connect_mongo, insert_csv_data_to_mongo, insert_json_data_mongo
 
-UPDATE_FREQUENCY = 1 # weeks
+UPDATE_FREQUENCY = 7 # days
 DATABASE_NAME = "persistent_landing"
 temporal_landing_path = "./temporal_landing/"
 mongo_connection_string = "mongodb://localhost:27017/"
