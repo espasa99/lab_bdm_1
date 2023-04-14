@@ -109,8 +109,8 @@ def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbas
         file_path = os.path.join(folder_path, file_name)
         date = '_'.join(file_name.split('_')[0:3])
 
-        file = open(file_path, 'r')
-        file_content = file.read().encode()
+        file = open(file_path, 'rb')
+        file_content = file.read()
         key = '$'.join([source_name, date]).encode()
 
         hbase_table.put(key, {b'file:content': file_content})
