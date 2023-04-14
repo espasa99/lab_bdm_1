@@ -7,7 +7,7 @@ import sqlite3
 from datetime import datetime
 
 
-def connect_hbase(connection_string: str, table_name: str) -> happybase.Connection:
+def connect_hbase(connection_string: str, table_name: str) -> happybase.Table:
     '''
     Function to connect to HBase
 
@@ -20,17 +20,19 @@ def connect_hbase(connection_string: str, table_name: str) -> happybase.Connecti
 
     Returns
     -------
-    happybase.Connection
-        HBase connection object
+    happybase.Table
+        HBase table object
 
     '''
 
     # connection_string = "192.168.1.62"
 
     connection = happybase.Connection(connection_string, autoconnect=True)
-
-
-    return connection
+    if table_name.encode() in connection.tables():
+        return connection.table(table_name)
+    else:
+        connection.create_table(table_name, {'file': dict(), 'metadata': dict()})
+        return connection.table(table_name)
 
 
 def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase_table: happybase.Table, insert_type=['all']) -> None:
@@ -61,11 +63,12 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
     for file_name in files_list:
 
         file_path = os.path.join(folder_path, file_name)
+        print(file_path)
 
-        file = open(file_path, 'r')
-        file_content = file.read().encode()
+        file = open(file_path, 'rb')
+        file_content = file.read()
         date = file_name.split('_')[0]
-        key = '$'.join([date, ]).encode()
+        key = '$'.join([source_name, date]).encode()
 
         hbase_table.put(key, {b'file:content': file_content})
 
@@ -133,7 +136,6 @@ def register_upload(valid_date: str, file_name: str, file_format: str, collectio
         Format of the file
     collection_name : str
     '''
-
     conn = sqlite3.connect('./register_uploads/register_uploads.db')
     c = conn.cursor()
 
