@@ -66,6 +66,7 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
         print(file_path)
 
         file = open(file_path, 'rb')
+        schema = file.readline()
         file_content = file.read()
         date = file_name.split('_')[0]
         key = '$'.join([source_name, date]).encode()
@@ -73,7 +74,7 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
         hbase_table.put(key, {b'file:content': file_content})
 
         # schema =
-        # table.put(key, {b'metadata:schema': schema})
+        hbase_table.put(key, {b'metadata:schema': schema})
 
         register_upload(date, file_name, 'json', source_name)
         print(f"Los datos de {file_name} se han cargado correctamente en HBase.")
