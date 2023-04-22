@@ -134,8 +134,12 @@ def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbas
 
         hbase_table.put(key, {b'file:content': file_content})
 
-        # schema =
-        # table.put(key, {b'metadata:schema': schema})
+        file = open(file_path, 'r')
+        doc0 = json.load(file)[0]
+        file.close()
+
+        schema = str(get_schema(doc0))
+        hbase_table.put(key, {b'metadata:schema': schema})
 
         register_upload(date, file_name, 'json', source_name)
         print(f"Los datos de {file_name} se han cargado correctamente en MongoDB.")
