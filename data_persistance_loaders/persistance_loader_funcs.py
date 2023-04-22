@@ -68,6 +68,7 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
         file = open(file_path, 'rb')
         schema = file.readline()
         file_content = file.read()
+        file.close()
         date = file_name.split('_')[0]
         key = '$'.join([source_name, date]).encode()
 
@@ -79,6 +80,22 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
         register_upload(date, file_name, 'json', source_name)
         print(f"Los datos de {file_name} se han cargado correctamente en HBase.")
 
+
+def get_schema(document):
+    '''
+        Function to get the schema of a document
+
+        Parameters
+        ----------
+        document : dict
+            dict, whose schema we want to obtain
+
+        '''
+    schema = {}
+    for key in document.keys():
+        value = document[key]
+        schema[key] = get_schema(value) if type(value).__name__ == 'dict' else type(value).__name__
+    return schema
 
 def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbase_table: happybase.Table, insert_type=['all']) -> None:
     '''
@@ -112,6 +129,7 @@ def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbas
 
         file = open(file_path, 'rb')
         file_content = file.read()
+        file.close()
         key = '$'.join([source_name, date]).encode()
 
         hbase_table.put(key, {b'file:content': file_content})
