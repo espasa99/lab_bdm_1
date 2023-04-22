@@ -52,8 +52,8 @@ def register_upload(valid_date: str, file_name: str, file_format: str, collectio
 
 def collect_data_from_api(api_urls_path, file_format, collection_name, dest_path, file_termination_name, limit_rows = 10000):
 
-    with open(api_urls_path, 'r') as archivo_json:
-        url_for_year = json.load(archivo_json)
+    with open(api_urls_path, 'r') as json_file:
+        url_for_year = json.load(json_file)
 
     for year in url_for_year:
 
@@ -68,7 +68,7 @@ def collect_data_from_api(api_urls_path, file_format, collection_name, dest_path
         records_data_frame = pd.DataFrame(data_json['result']['records'])
 
         records_data_frame.to_csv(dest_path + year + file_termination_name, index=False)
-    
+
         file_name = year + file_termination_name
         date = file_name.split('_')[0]
 
