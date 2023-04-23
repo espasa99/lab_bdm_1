@@ -4,7 +4,7 @@ import pandas as pd
 # from pymongo import MongoClient
 import happybase
 import sqlite3
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 def connect_hbase(connection_string: str, table_name: str) -> happybase.Table:
@@ -163,7 +163,7 @@ def register_upload(valid_date: str, file_name: str, file_format: str, collectio
 
     now = datetime.now()
     upload_date = now.strftime("%Y/%m/%d %H:%M:%S")
-    query = f"INSERT INTO log VALUES ('{upload_date}', '{valid_date}', '{file_name}', '{file_format}', '{collection_name}')"
+    query = f"INSERT INTO uploads_persistent_landing VALUES ('{upload_date}', '{valid_date}', '{file_name}', '{file_format}', '{collection_name}')"
     c.execute(query)
 
     conn.commit()
@@ -171,7 +171,7 @@ def register_upload(valid_date: str, file_name: str, file_format: str, collectio
 
 def temporal_files_modified(collection_name: str, update_frequency: int) -> list:
     '''
-    Function to get the files modified since the last week (or another frequency dependig on the config.) in the temporal_landing
+    Function to get the files modified since last week (or another frequency depending on the config.) in the temporal_landing
 
     Returns
     -------
