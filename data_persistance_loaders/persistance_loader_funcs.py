@@ -63,7 +63,6 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
     for file_name in files_list:
 
         file_path = os.path.join(folder_path, file_name)
-        print(file_path)
 
         file = open(file_path, 'rb')
         schema = file.readline()
@@ -78,7 +77,7 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
         hbase_table.put(key, {b'metadata:schema': schema})
 
         register_upload(date, file_name, 'json', source_name)
-        print(f"Los datos de {file_name} se han cargado correctamente en HBase.")
+        print(f"File {file_name} successfully loaded to HBase.")
 
 def get_schema(document):
     '''
@@ -135,14 +134,17 @@ def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbas
         hbase_table.put(key, {b'file:content': file_content})
 
         file = open(file_path, 'r')
-        doc0 = json.load(file)[0]
+        docs = json.load(file)
         file.close()
-
-        schema = str(get_schema(doc0))
+        if len(docs) > 0:
+            doc0 = docs[0]
+            schema = str(get_schema(doc0))
+        else:
+            schema = ''
         hbase_table.put(key, {b'metadata:schema': schema})
 
         register_upload(date, file_name, 'json', source_name)
-        print(f"Los datos de {file_name} se han cargado correctamente en MongoDB.")
+        print(f"File {file_name} successfully loaded to HBase.")
 
 def register_upload(valid_date: str, file_name: str, file_format: str, collection_name: str) -> None:
     '''
