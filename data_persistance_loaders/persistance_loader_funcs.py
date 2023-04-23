@@ -34,8 +34,7 @@ def connect_hbase(connection_string: str, table_name: str) -> happybase.Table:
         connection.create_table(table_name, {'file': dict(), 'metadata': dict()})
         return connection.table(table_name)
 
-
-def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase_table: happybase.Table, insert_type=['all']) -> None:
+def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase_table: happybase.Table, update_type: str, update_frequency: int) -> None:
     '''
     Function to read and load the CSV files into MongoDB
 
@@ -47,18 +46,19 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
         Name of the source where data comes from
     hbase_table : happybase.Table
         HBase table object
-    insert_type : list, optional
-        List of files to insert. If 'all' is passed, all the files in the folder will be inserted, by default ['all']
-
+    update_type : str
+        Type of update to be performed. 'complete' or 'incremental'
+    update_frequency : int
+        Frequency of the update in days
     '''
 
     folder_path = f'{temporal_landing_path}{source_name}/'
 
-    if insert_type[0] == 'all':
+    if update_type == 'complete':
         files_list = [f for f in os.listdir(folder_path)]
 
     else:
-        files_list = insert_type
+        files_list = temporal_files_modified(source_name, update_frequency)
 
     for file_name in files_list:
 
@@ -80,7 +80,6 @@ def insert_csv_data_to_hbase(temporal_landing_path: str, source_name: str, hbase
         register_upload(date, file_name, 'json', source_name)
         print(f"Los datos de {file_name} se han cargado correctamente en HBase.")
 
-
 def get_schema(document):
     '''
         Function to get the schema of a document
@@ -97,7 +96,7 @@ def get_schema(document):
         schema[key] = get_schema(value) if type(value).__name__ == 'dict' else type(value).__name__
     return schema
 
-def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbase_table: happybase.Table, insert_type=['all']) -> None:
+def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbase_table: happybase.Table, update_type: str, update_frequency: int) -> None:
     '''
     Function to read and load the idealista files into HBase
 
@@ -109,18 +108,19 @@ def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbas
         Name of the source where data comes from
     hbase_table : happybase.Table
         hbase table
-    insert_type : list, optional
-        List of files to insert. If 'all' is passed, all the files in the folder will be inserted, by default ['all']
-
+    update_type : str
+        Type of update to be performed. 'complete' or 'incremental'
+    update_frequency : int
+        Frequency of the update in days
     '''
 
     folder_path = f'{temporal_landing_path}{source_name}/'
 
-    if insert_type[0] == 'all':
+    if update_type == 'complete':
         files_list = [f for f in os.listdir(folder_path)]
 
     else:
-        files_list = insert_type
+        files_list = temporal_files_modified(source_name, update_frequency)
 
     for file_name in files_list:
 
@@ -143,7 +143,6 @@ def insert_json_data_to_hbase(temporal_landing_path: str, source_name: str, hbas
 
         register_upload(date, file_name, 'json', source_name)
         print(f"Los datos de {file_name} se han cargado correctamente en MongoDB.")
-
 
 def register_upload(valid_date: str, file_name: str, file_format: str, collection_name: str) -> None:
     '''
@@ -169,3 +168,29 @@ def register_upload(valid_date: str, file_name: str, file_format: str, collectio
 
     conn.commit()
     conn.close()
+
+def temporal_files_modified(collection_name: str, update_frequency: int) -> list:
+    '''
+    Function to get the files modified since the last week (or another frequency dependig on the config.) in the temporal_landing
+
+    Returns
+    -------
+    list
+        List of files modified since the last week in the temporal_landing
+    '''
+
+    conn = sqlite3.connect('./register_uploads/register_uploads.db')
+    c = conn.cursor()
+
+    today = datetime.now()
+    last_week = today - timedelta(days=update_frequency)
+    last_week = last_week.strftime("%Y/%m/%d %H:%M:%S")
+    
+    query = f"SELECT file_name FROM uploads_temporal_landing WHERE upload_date >= '{last_week}' AND collection_name = '{collection_name}'"
+    c.execute(query)
+
+    files_list = [file[0] for file in c.fetchall()]
+
+    conn.close()
+
+    return files_list
